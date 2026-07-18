@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kannada Learning App - Knowledge Graph</title>
+  <style>
+    :root { --primary: #6f42c1; --bg: #f8f9fa; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: #333; line-height: 1.6; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+    header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px 20px; text-align: center; }
+    header h1 { font-size: 2.2rem; margin-bottom: 8px; }
+    header p { opacity: 0.9; font-size: 1.1rem; }
+    .section { background: white; border-radius: 12px; padding: 28px; margin: 24px 0; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .section h2 { color: var(--primary); border-bottom: 3px solid var(--primary); padding-bottom: 8px; margin-bottom: 18px; font-size: 1.5rem; }
+    .section h3 { color: #555; margin: 16px 0 8px; font-size: 1.15rem; }
+    .section h4 { color: #666; margin: 12px 0 6px; font-size: 1rem; }
+    .badge { display: inline-block; padding: 2px 10px; border-radius: 20px; font-size: 0.78rem; font-weight: 600; }
+    .badge-blue { background: #e8f0fe; color: #1967d2; }
+    .badge-green { background: #e6f4ea; color: #137333; }
+    .badge-purple { background: #f3e8fd; color: #7c3aed; }
+    .badge-orange { background: #fef3e8; color: #b45b0e; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.92rem; }
+    th, td { border: 1px solid #e0e0e0; padding: 10px 14px; text-align: left; }
+    th { background: #f0f0f5; font-weight: 600; }
+    tr:nth-child(even) { background: #fafafa; }
+    code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; font-size: 0.88rem; color: #c7254e; }
+    pre { background: #1e1e2e; color: #cdd6f4; padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 0.85rem; margin: 10px 0; }
+    .flow-box { background: #f8f4ff; border: 1px solid #ddd6fe; border-radius: 8px; padding: 16px; margin: 12px 0; }
+    .tag { display: inline-block; padding: 1px 8px; border-radius: 4px; font-size: 0.75rem; margin: 1px; }
+    .tag-js { background: #f7df1e; color: #000; }
+    .tag-svelte { background: #ff3e00; color: #fff; }
+    .tag-json { background: #0288d1; color: #fff; }
+    ul, ol { padding-left: 22px; margin: 8px 0; }
+    li { margin: 4px 0; }
+    hr { border: none; border-top: 1px solid #e0e0e0; margin: 18px 0; }
+    @media print { header { break-after: avoid; } .section { break-inside: avoid; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📚 Kannada Learning App — Knowledge Graph</h1>
+    <p>Complete Architecture, File Structure &amp; API Documentation</p>
+  </header>
+  <div class="container">
+
+    <!-- 1. OVERVIEW -->
+    <div class="section">
+      <h2>1. Project Overview</h2>
+      <p><strong>Kannada Learning App</strong> is a modern, responsive web application for learning the Kannada writing system. Built with <strong>SvelteKit 5</strong> + <strong>Bootstrap 5</strong>, it consumes local JSON datasets and uses the browser's <strong>Web Speech API</strong> for pronunciation.</p>
+      <div class="flow-box" style="margin-top:12px;">
+        <strong>Core Principle:</strong> Data-driven architecture — all learning content lives in <code>/static/kannada-dataset/</code> as JSON. The UI never hardcodes Kannada characters, words, or categories.
+      </div>
+    </div>
+
+    <!-- 2. DIRECTORY STRUCTURE -->
+    <div class="section">
+      <h2>2. Directory Structure</h2>
+      <pre>kannada-learning-app/
+├── package.json                  # Dependencies & scripts
+├── svelte.config.js              # SvelteKit adapter config
+├── vite.config.js                # Vite bundler config
+├── static/
+│   ├── kannada-dataset/          # 📦 Phase 1 datasets (source of truth)
+│   │   ├── vowels.json           # 16 independent vowels
+│   │   ├── consonants.json       # 36 consonants
+│   │   ├── vowel_sign_combinations.json  # 540 vowel-consonant combos
+│   │   ├── conjuncts.json        # 30 common conjunct letters
+│   │   └── numbers.json          # 10 Kannada numerals
+│   └── knowledge-graph.html      # 🔍 This document
+│
+└── src/
+    ├── app.html                  # HTML shell template
+    ├── app.css                   # Global styles & animations
+    ├── routes/
+    │   ├── +layout.svelte        # Root layout (navbar + footer)
+    │   ├── +layout.js            # Prerender config (static adapter)
+    │   ├── +page.svelte          # 🏠 Home page (navigation cards)
+    │   ├── alphabet/
+    │   │   └── +page.svelte      # 🔤 Alphabet learning screen
+    │   └── settings/
+    │       └── +page.svelte      # ⚙️ Settings page
+    └── lib/
+        ├── components/
+        │   ├── AlphabetCard.svelte   # Reusable letter card
+        │   ├── AudioButton.svelte    # TTS play button
+        │   ├── PageHeader.svelte     # Section title header
+        │   ├── SearchBar.svelte      # Global search input
+        │   └── SectionHeader.svelte  # Section divider heading
+        └── services/
+            ├── datasetService.js     # JSON loader & query API
+            └── speechService.js      # Browser TTS wrapper
+      </pre>
+      <p><strong>Total:</strong> 20 source files, ~2000 lines of code, ~5400 dataset entries.</p>
+    </div>
+
+    <!-- 3. PHASE 1 DATASETS -->
+    <div class="section">
+      <h2>3. Phase 1 — Dataset Files</h2>
+      <p>Five JSON files form the <strong>single source of truth</strong>. Every entry is self-contained.</p>
+
+      <h3>3.1 <code>vowels.json</code> <span class="badge badge-blue">16 items</span></h3>
+      <p>Independent vowels (ಸ್ವರಗಳು): ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ೠ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ, ಅಂ, ಅಃ.</p>
+      <table>
+        <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+        <tr><td><code>id</code></td><td>number</td><td>Unique identifier (1–16)</td></tr>
+        <tr><td><code>type</code></td><td>string</td><td>Always <code>"letter"</code></td></tr>
+        <tr><td><code>category</code></td><td>string</td><td><code>"vowel"</code></td></tr>
+        <tr><td><code>letter</code></td><td>string</td><td>Kannada character</td></tr>
+        <tr><td><code>roman</code></td><td>string</td><td>Roman transliteration</td></tr>
+        <tr><td><code>meaning</code></td><td>string</td><td>English label</td></tr>
+        <tr><td><code>tts</code></td><td>string</td><td>Text sent to speech engine</td></tr>
+      </table>
+
+      <h3>3.2 <code>consonants.json</code> <span class="badge badge-blue">36 items</span></h3>
+      <p>Consonants (ವ್ಯಂಜನಗಳು): ಕ through ಜ್ಞ including all five vargas and miscellaneous.</p>
+      <table>
+        <tr><th>Field</th><th>Type</th><th>Example</th></tr>
+        <tr><td><code>id</code></td><td>number</td><td>101–136</td></tr>
+        <tr><td><code>category</code></td><td>string</td><td><code>"consonant"</code></td></tr>
+        <tr><td><code>letter</code></td><td>string</td><td><code>"ಕ"</code></td></tr>
+        <tr><td><code>roman</code></td><td>string</td><td><code>"ka"</code></td></tr>
+      </table>
+
+      <h3>3.3 <code>vowel_sign_combinations.json</code> <span class="badge badge-purple">540 items</span></h3>
+      <p>Every consonant × 15 vowel signs = 540 combinations (ಗುಣಿತಾಕ್ಷರ).</p>
+      <table>
+        <tr><th>Field</th><th>Type</th><th>Example</th></tr>
+        <tr><td><code>id</code></td><td>number</td><td>401–940</td></tr>
+        <tr><td><code>category</code></td><td>string</td><td><code>"vowel_combination"</code></td></tr>
+        <tr><td><code>consonant</code></td><td>string</td><td><code>"ಕ"</code></td></tr>
+        <tr><td><code>letter</code></td><td>string</td><td><code>"ಕಾ"</code>, <code>"ಕಿ"</code>, …</td></tr>
+        <tr><td><code>roman</code></td><td>string</td><td><code>"kaa"</code>, <code>"ki"</code>, …</td></tr>
+      </table>
+
+      <h3>3.4 <code>conjuncts.json</code> <span class="badge badge-blue">30 items</span></h3>
+      <p>Common conjunct letters (ಒತ್ತಕ್ಷರ): ಕ್ಕ, ಕ್ತ, ಕ್ನ, ಗ್ನ, ಶ್ರ, ಕ್ಷ, ಜ್ಞ, etc.</p>
+      <table>
+        <tr><th>Field</th><th>Type</th><th>Example</th></tr>
+        <tr><td><code>id</code></td><td>number</td><td>301–330</td></tr>
+        <tr><td><code>category</code></td><td>string</td><td><code>"conjunct"</code></td></tr>
+        <tr><td><code>letter</code></td><td>string</td><td><code>"ಕ್ಕ"</code></td></tr>
+        <tr><td><code>roman</code></td><td>string</td><td><code>"kka"</code></td></tr>
+      </table>
+
+      <h3>3.5 <code>numbers.json</code> <span class="badge badge-blue">10 items</span></h3>
+      <p>Kannada numerals ೦–೯ with empty <code>letter</code> field; uses <code>number</code> field instead.</p>
+      <table>
+        <tr><th>Field</th><th>Type</th><th>Example</th></tr>
+        <tr><td><code>id</code></td><td>number</td><td>201–210</td></tr>
+        <tr><td><code>type</code></td><td>string</td><td><code>"number"</code></td></tr>
+        <tr><td><code>number</code></td><td>string</td><td><code>"೧"</code></td></tr>
+        <tr><td><code>roman</code></td><td>string</td><td><code>"1"</code></td></tr>
+        <tr><td><code>meaning</code></td><td>string</td><td><code>"One"</code></td></tr>
+      </table>
+    </div>
+
+    <!-- 4. SERVICES -->
+    <div class="section">
+      <h2>4. Services Layer</h2>
+
+      <h3>4.1 <code>datasetService.js</code> <span class="tag tag-js">JavaScript</span></h3>
+      <p>Central data layer — all components import from this service, never from JSON directly.</p>
+      <table>
+        <tr><th>Function</th><th>Returns</th><th>Description</th></tr>
+        <tr><td><code>getVowels()</code></td><td>Array</td><td>All items with <code>category: "vowel"</code></td></tr>
+        <tr><td><code>getConsonants()</code></td><td>Array</td><td>All items with <code>category: "consonant"</code></td></tr>
+        <tr><td><code>getVowelCombinations()</code></td><td>Array</td><td>All items with <code>category: "vowel_combination"</code></td></tr>
+        <tr><td><code>getConjuncts()</code></td><td>Array</td><td>All items with <code>category: "conjunct"</code></td></tr>
+        <tr><td><code>getNumbers()</code></td><td>Array</td><td>All numeral items</td></tr>
+        <tr><td><code>getAllLetters()</code></td><td>Array[Object]</td><td>5 sections merged: <code>[{section, title, data}]</code></td></tr>
+        <tr><td><code>search(query)</code></td><td>Array</td><td>Fuzzy match across letter/roman/meaning/word fields</td></tr>
+        <tr><td><code>clearCache()</code></td><td>void</td><td>Reset in-memory cache for fresh fetches</td></tr>
+      </table>
+      <div class="flow-box" style="margin-top:8px;">
+        <strong>🚀 Architecture:</strong> Uses a simple in-memory cache (object <code>cache = {}</code>). First call fetches via <code>fetch()</code> from <code>/kannada-dataset/{filename}</code>; subsequent calls return cached data.
+      </div>
+
+      <h3>4.2 <code>speechService.js</code> <span class="tag tag-js">JavaScript</span></h3>
+      <p>Abstraction over the browser's <strong>Web Speech API</strong>. Swap-friendly for future audio file playback.</p>
+      <table>
+        <tr><th>Function</th><th>Returns</th><th>Description</th></tr>
+        <tr><td><code>speak(text)</code></td><td>Promise&lt;void&gt;</td><td>Speaks Kannada text. Cancels previous utterance. Lang=<code>kn-IN</code>, rate=0.85</td></tr>
+        <tr><td><code>stop()</code></td><td>void</td><td>Immediately cancels any ongoing speech</td></tr>
+        <tr><td><code>isSpeechSupported()</code></td><td>boolean</td><td>Checks if <code>speechSynthesis</code> exists in window</td></tr>
+      </table>
+      <div class="flow-box" style="margin-top:8px;">
+        <strong>💡 Design Rationale:</strong> All UI components call <code>speak()</code>. If you later replace with pre-recorded audio, only the internals of <code>speechService.js</code> change — no UI changes needed.
+      </div>
+    </div>
+
+    <!-- 5. COMPONENTS -->
+    <div class="section">
+      <h2>5. UI Components</h2>
+
+      <h3>5.1 <code>AlphabetCard.svelte</code> <span class="tag tag-svelte">Svelte</span></h3>
+      <p>Reusable card displaying a Kannada letter with roman transliteration and an audio button.</p>
+      <div class="flow-box">
+        <strong>Props:</strong> <code>letter</code>, <code>roman</code>, <code>tts</code>, <code>selected</code>, <code>onSelect</code><br>
+        <strong>Behaviour:</strong> Click plays <code>tts</code> via imported <code>AudioButton</code>, toggles <code>.selected</code> / <code>.playing</code> CSS classes for visual feedback. Animated card-pop on click.
+      </div>
+
+      <h3>5.2 <code>AudioButton.svelte</code> <span class="tag tag-svelte">Svelte</span></h3>
+      <p>Small circular button (36×36px) with volume icon. Calls <code>speechService.speak(text)</code>.</p>
+      <div class="flow-box">
+        <strong>Props:</strong> <code>text</code> — the Kannada string to pronounce<br>
+        <strong>States:</strong> <code>playing</code> (disables button, shows filled icon), idle (shows outline icon).
+      </div>
+
+      <h3>5.3 <code>SearchBar.svelte</code> <span class="tag tag-svelte">Svelte</span></h3>
+      <p>Full-width search input with icon, clear button, and real-time results callback.</p>
+      <div class="flow-box">
+        <strong>Props:</strong> <code>onResults(results)</code> — callback fired on every keystroke<br>
+        <strong>Behaviour:</strong> Debounce-free for simplicity. Clears results when input is empty. Shows spinner during async search.
+      </div>
+
+      <h3>5.4 <code>PageHeader.svelte</code> <span class="tag tag-svelte">Svelte</span></h3>
+      <p>Page-level heading with optional subtitle and icon. Used by home, alphabet, and settings pages.</p>
+      <div class="flow-box">
+        <strong>Props:</strong> <code>title</code>, <code>subtitle</code>, <code>icon</code> (Bootstrap icon class)
+      </div>
+
+      <h3>5.5 <code>SectionHeader.svelte</code> <span class="tag tag-svelte">Svelte</span></h3>
+      <p>Section divider heading with underlines and optional icon. Marks each alphabet category.</p>
+      <div class="flow-box">
+        <strong>Props:</strong> <code>title</code>, <code>icon</code>
+      </div>
+    </div>
+
+    <!-- 6. ROUTES -->
+    <div class="section">
+      <h2>6. Routes &amp; Pages</h2>
+
+      <h3>6.1 <code>+layout.svelte</code> <span class="tag tag-svelte">Root Layout</span></h3>
+      <p>Wraps all pages. Provides:</p>
+      <ul>
+        <li><strong>Navbar</strong> — purple gradient bar with links to Home, Alphabet, Settings</li>
+        <li><strong>Main container</strong> — Bootstrap <code>.container</code> with padding</li>
+        <li><strong>Footer</strong> — centered copyright text</li>
+        <li><strong>Head</strong> — loads Bootstrap 5 CSS and Bootstrap Icons from CDN</li>
+      </ul>
+
+      <h3>6.2 <code>+layout.js</code> <span class="tag tag-js">Config</span></h3>
+      <pre>export const prerender = true;
+export const ssr = false;
+export const trailingSlash = 'always';</pre>
+      <p>Enables static site generation (prerender all pages at build time). SSR disabled since datasets are fetched client-side via <code>fetch()</code>.</p>
+
+      <h3>6.3 <code>+page.svelte</code> <span class="tag tag-svelte">Home</span></h3>
+      <p>Landing page with:</p>
+      <ul>
+        <li><strong>3 gradient cards</strong> (Alphabet → links to <code>/alphabet</code>, Practice → placeholder, Settings → links to <code>/settings</code>)</li>
+        <li><strong>About card</strong> — explains the data-driven design</li>
+      </ul>
+
+      <h3>6.4 <code>alphabet/+page.svelte</code> <span class="tag tag-svelte">Alphabet</span></h3>
+      <p>The core learning page. Flow:</p>
+      <ol>
+        <li><code>onMount</code> → calls <code>getAllLetters()</code> → fetches all 5 datasets</li>
+        <li>Renders <strong>SearchBar</strong> on top → typed query triggers <code>search()</code> → displays results inline</li>
+        <li>Below search, renders <strong>5 sections</strong> (Vowels, Consonants, Vowel Combos, Conjuncts, Numbers) each with a <code>SectionHeader</code></li>
+        <li>Each section maps over data items → renders <strong>responsive grid</strong> (<code>col-6 col-md-4 col-lg-2</code>) of <code>AlphabetCard</code> components</li>
+        <li>Clicking a card triggers <code>speak(tts)</code> and sets <code>selectedId</code> for visual highlight</li>
+      </ol>
+
+      <h3>6.5 <code>settings/+page.svelte</code> <span class="tag tag-svelte">Settings</span></h3>
+      <p>Three settings panels:</p>
+      <ul>
+        <li><strong>Speech Settings</strong> — rate slider (0.5–2.0), pitch slider, test button, TTS availability badge</li>
+        <li><strong>Data Management</strong> — "Clear Cache & Reload" button</li>
+        <li><strong>About</strong> — version info, dataset stats, coming-soon roadmap</li>
+        <li><strong>Quick Tips</strong> — sidebar card with usage tips</li>
+      </ul>
+    </div>
+
+    <!-- 7. DATA FLOW -->
+    <div class="section">
+      <h2>7. Data Flow Diagram</h2>
+      <pre style="line-height:1.8;">
+  [JSON files]
+  /static/kannada-dataset/
+      │
+      ▼
+  datasetService.js         ← only file that knows about JSON paths
+      │
+      ├── getVowels()
+      ├── getConsonants()
+      ├── getVowelCombinations()
+      ├── getConjuncts()
+      ├── getNumbers()
+      └── getAllLetters()    ← merges all 5 datasets into sections
+           │
+           ▼
+  alphabet/+page.svelte     ← calls on mount, loops sections
+      │
+      ├── SectionHeader     ← section title
+      ├── SearchBar         ← calls datasetService.search()
+      └── AlphabetCard × N  ← receives letter/roman/tts via props
+           │
+           ├── AudioButton  ← calls speechService.speak(tts)
+           └── CSS classes  ← :hover, :active, .selected, .playing
+      </pre>
+      <div class="flow-box" style="margin-top:12px;">
+        <strong>Key Data Flow Principles:</strong><br>
+        1. JSON files → <code>datasetService</code> → Svelte components<br>
+        2. Components <em>never</em> import JSON directly<br>
+        3. All datasets retrieved via <code>fetch()</code> at runtime (client-side)<br>
+        4. Future dataset addition = add JSON file + extend <code>datasetService</code> + optionally create new route
+      </div>
+    </div>
+
+    <!-- 8. FUTURE EXTENSIBILITY -->
+    <div class="section">
+      <h2>8. Future Extensibility Guide</h2>
+      <p>To add a new module (e.g., Vocabulary), follow this checklist:</p>
+
+      <h3>Step-by-step:</h3>
+      <ol>
+        <li><strong>Create JSON file</strong> <code>static/kannada-dataset/vocabulary.json</code></li>
+        <li><strong>Extend datasetService</strong> — add <code>getVocabulary()</code> function following existing pattern</li>
+        <li><strong>Optionally update <code>getAllLetters()</code></strong> or create a new page</li>
+        <li><strong>Create route page</strong> <code>src/routes/vocabulary/+page.svelte</code></li>
+        <li><strong>Add link</strong> in navbar layout</li>
+      </ol>
+
+      <h3>Planned future datasets:</h3>
+      <table>
+        <tr><th>Dataset</th><th>File</th><th>Fields</th></tr>
+        <tr><td>Vocabulary</td><td><code>vocabulary.json</code></td><td><code>word</code>, <code>roman</code>, <code>meaning</code>, <code>category</code>, <code>tts</code></td></tr>
+        <tr><td>Lessons</td><td><code>lessons.json</code></td><td><code>title</code>, <code>order</code>, <code>content</code>, <code>items[]</code></td></tr>
+        <tr><td>Grammar</td><td><code>grammar.json</code></td><td><code>rule</code>, <code>explanation</code>, <code>example</code>, <code>notes</code></td></tr>
+        <tr><td>Phrases</td><td><code>phrases.json</code></td><td><code>phrase</code>, <code>roman</code>, <code>meaning</code>, <code>context</code></td></tr>
+        <tr><td>Quizzes</td><td><code>quizzes.json</code></td><td><code>question</code>, <code>options[]</code>, <code>answer</code>, <code>hint</code></td></tr>
+      </table>
+
+      <div class="flow-box" style="margin-top:12px;">
+        <strong>✅ Compatibility Guarantee:</strong> Adding any of the above requires <strong>zero modifications</strong> to AlphabetCard, AudioButton, SearchBar, PageHeader, or SectionHeader components.
+      </div>
+    </div>
+
+    <!-- 9. SCRIPTS -->
+    <div class="section">
+      <h2>9. NPM Scripts</h2>
+      <table>
+        <tr><th>Script</th><th>Command</th><th>Description</th></tr>
+        <tr><td><code>dev</code></td><td><code>vite dev</code></td><td>Starts development server with HMR</td></tr>
+        <tr><td><code>build</code></td><td><code>vite build</code></td><td>Builds static site to <code>.svelte-kit/output/</code></td></tr>
+        <tr><td><code>preview</code></td><td><code>vite preview</code></td><td>Serves the built static site locally</td></tr>
+      </table>
+    </div>
+
+    <!-- 10. DEPENDENCIES -->
+    <div class="section">
+      <h2>10. Dependencies</h2>
+      <table>
+        <tr><th>Package</th><th>Type</th><th>Purpose</th></tr>
+        <tr><td><code>@sveltejs/kit</code></td><td>dev</td><td>SvelteKit framework (routing, SSR, prerendering)</td></tr>
+        <tr><td><code>@sveltejs/adapter-static</code></td><td>dev</td><td>Static site generation adapter</td></tr>
+        <tr><td><code>svelte</code></td><td>dev</td><td>Svelte compiler (v5 with runes)</td></tr>
+        <tr><td><code>vite</code></td><td>dev</td><td>Build tool & dev server</td></tr>
+        <tr><td><code>bootstrap</code></td><td>runtime</td><td>CSS framework (grid, cards, utilities)</td></tr>
+        <tr><td><code>bootstrap-icons</code></td><td>runtime</td><td>Icon library (search, volume, gear, etc.)</td></tr>
+      </table>
+      <p><strong>No other third-party libraries.</strong> TTS uses browser native Web Speech API.</p>
+    </div>
+
+    <!-- 11. RESPONSIVENESS -->
+    <div class="section">
+      <h2>11. Responsive Breakpoints</h2>
+      <table>
+        <tr><th>Device</th><th>Bootstrap breakpoint</th><th>Cards per row</th></tr>
+        <tr><td>Desktop</td><td><code>≥992px (lg)</code></td><td>6 cards</td></tr>
+        <tr><td>Tablet</td><td><code>≥768px (md)</code></td><td>4 cards</td></tr>
+        <tr><td>Mobile</td><td><code>&lt;768px</code></td><td>2 cards</td></tr>
+      </table>
+      <p>Implemented via Bootstrap grid classes: <code>col-6 col-md-4 col-lg-2</code></p>
+    </div>
+
+    <!-- 12. COMPONENT TREE -->
+    <div class="section">
+      <h2>12. Component Tree</h2>
+      <pre style="font-size:0.82rem;">
++layout.svelte                      ← navbar, container, footer
+│
+├── +page.svelte (Home)            ← PageHeader + 3 nav cards + About card
+│
+├── alphabet/+page.svelte          ← PageHeader + SearchBar + 5× Section + grid
+│   ├── SearchBar                   ← input → datasetService.search()
+│   ├── SectionHeader (×5)         ← "Vowels", "Consonants", etc.
+│   └── AlphabetCard (×N)          ← letter, roman, AudioButton
+│       └── AudioButton             ← speak(tts)
+│
+└── settings/+page.svelte          ← PageHeader + speech controls + data mgmt + about
+      </pre>
+    </div>
+
+    <!-- 13. CONFIG FILES -->
+    <div class="section">
+      <h2>13. Configuration Files</h2>
+
+      <h3><code>svelte.config.js</code></h3>
+      <pre>import adapter from '@sveltejs/adapter-static';
+export default {
+  kit: {
+    adapter: adapter(),
+    paths: { base: '' }
+  }
+};</pre>
+
+      <h3><code>vite.config.js</code></h3>
+      <pre>import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vite';
+export default defineConfig({ plugins: [sveltekit()] });</pre>
+    </div>
+
+    <!-- 14. APP STYLES -->
+    <div class="section">
+      <h2>14. Global Styles (<code>app.css</code>)</h2>
+      <table>
+        <tr><th>Selector</th><th>Purpose</th></tr>
+        <tr><td><code>.kannada-text</code></td><td>Large Kannada character display (2.5rem, weight 500)</td></tr>
+        <tr><td><code>.card-hover</code></td><td>Hover lift (translateY -4px) + shadow increase</td></tr>
+        <tr><td><code>.card-hover.selected</code></td><td>Purple border + focus ring when card is active</td></tr>
+        <tr><td><code>.card-hover.playing</code></td><td>Card-pop animation (scale 1→1.05→1)</td></tr>
+        <tr><td><code>.section-heading</code></td><td>Purple underline + spacing for section titles</td></tr>
+        <tr><td><code>.home-card</code></td><td>Gradient background cards on landing page</td></tr>
+      </table>
+      <p>Custom CSS variables: <code>--bs-primary: #6f42c1</code> (purple)</p>
+    </div>
+
+    <!-- 15. DEMO JSON SCHEMA -->
+    <div class="section">
+      <h2>15. JSON Schema Reference</h2>
+      <h3>Letter item (vowels, consonants, combinations, conjuncts)</h3>
+      <pre>{
+  "id": 1,
+  "type": "letter",
+  "category": "vowel",
+  "letter": "ಅ",
+  "roman": "a",
+  "meaning": "A",
+  "tts": "ಅ"
+}</pre>
+
+      <h3>Number item</h3>
+      <pre>{
+  "id": 201,
+  "type": "number",
+  "category": "numeral",
+  "number": "೦",
+  "roman": "0",
+  "meaning": "Zero",
+  "tts": "೦"
+}</pre>
+
+      <h3>Future vocabulary item (planned schema)</h3>
+      <pre>{
+  "id": 1001,
+  "type": "word",
+  "category": "family",
+  "word": "ಅಮ್ಮ",
+  "roman": "amma",
+  "meaning": "Mother",
+  "tts": "ಅಮ್ಮ"
+}</pre>
+    </div>
+
+    <!-- FOOTER -->
+    <div style="text-align:center; padding:30px 0 10px; color:#888; font-size:0.85rem;">
+      <p>Kannada Learning App — Knowledge Graph v1.0</p>
+      <p>Generated as part of Phase 2 documentation</p>
+    </div>
+  </div>
+</body>
+</html>

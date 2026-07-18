@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 401,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕ",
+    "roman": "ka",
+    "meaning": "ka",
+    "tts": "ಕ"
+  },
+  {
+    "id": 402,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕಾ",
+    "roman": "kaa",
+    "meaning": "kaa",
+    "tts": "ಕಾ"
+  },
+  {
+    "id": 403,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕಿ",
+    "roman": "ki",
+    "meaning": "ki",
+    "tts": "ಕಿ"
+  },
+  {
+    "id": 404,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೀ",
+    "roman": "kii",
+    "meaning": "kii",
+    "tts": "ಕೀ"
+  },
+  {
+    "id": 405,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕು",
+    "roman": "ku",
+    "meaning": "ku",
+    "tts": "ಕು"
+  },
+  {
+    "id": 406,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೂ",
+    "roman": "kuu",
+    "meaning": "kuu",
+    "tts": "ಕೂ"
+  },
+  {
+    "id": 407,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೃ",
+    "roman": "kru",
+    "meaning": "kru",
+    "tts": "ಕೃ"
+  },
+  {
+    "id": 408,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೆ",
+    "roman": "ke",
+    "meaning": "ke",
+    "tts": "ಕೆ"
+  },
+  {
+    "id": 409,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೇ",
+    "roman": "kee",
+    "meaning": "kee",
+    "tts": "ಕೇ"
+  },
+  {
+    "id": 410,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೈ",
+    "roman": "kai",
+    "meaning": "kai",
+    "tts": "ಕೈ"
+  },
+  {
+    "id": 411,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೊ",
+    "roman": "ko",
+    "meaning": "ko",
+    "tts": "ಕೊ"
+  },
+  {
+    "id": 412,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೋ",
+    "roman": "koo",
+    "meaning": "koo",
+    "tts": "ಕೋ"
+  },
+  {
+    "id": 413,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕೌ",
+    "roman": "kau",
+    "meaning": "kau",
+    "tts": "ಕೌ"
+  },
+  {
+    "id": 414,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕಂ",
+    "roman": "kam",
+    "meaning": "kam",
+    "tts": "ಕಂ"
+  },
+  {
+    "id": 415,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ",
+    "letter": "ಕಃ",
+    "roman": "kah",
+    "meaning": "kah",
+    "tts": "ಕಃ"
+  },
+  {
+    "id": 416,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖ",
+    "roman": "kha",
+    "meaning": "kha",
+    "tts": "ಖ"
+  },
+  {
+    "id": 417,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖಾ",
+    "roman": "khaa",
+    "meaning": "khaa",
+    "tts": "ಖಾ"
+  },
+  {
+    "id": 418,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖಿ",
+    "roman": "khi",
+    "meaning": "khi",
+    "tts": "ಖಿ"
+  },
+  {
+    "id": 419,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೀ",
+    "roman": "khii",
+    "meaning": "khii",
+    "tts": "ಖೀ"
+  },
+  {
+    "id": 420,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖು",
+    "roman": "khu",
+    "meaning": "khu",
+    "tts": "ಖು"
+  },
+  {
+    "id": 421,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೂ",
+    "roman": "khuu",
+    "meaning": "khuu",
+    "tts": "ಖೂ"
+  },
+  {
+    "id": 422,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೃ",
+    "roman": "khru",
+    "meaning": "khru",
+    "tts": "ಖೃ"
+  },
+  {
+    "id": 423,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೆ",
+    "roman": "khe",
+    "meaning": "khe",
+    "tts": "ಖೆ"
+  },
+  {
+    "id": 424,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೇ",
+    "roman": "khee",
+    "meaning": "khee",
+    "tts": "ಖೇ"
+  },
+  {
+    "id": 425,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೈ",
+    "roman": "khai",
+    "meaning": "khai",
+    "tts": "ಖೈ"
+  },
+  {
+    "id": 426,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೊ",
+    "roman": "kho",
+    "meaning": "kho",
+    "tts": "ಖೊ"
+  },
+  {
+    "id": 427,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೋ",
+    "roman": "khoo",
+    "meaning": "khoo",
+    "tts": "ಖೋ"
+  },
+  {
+    "id": 428,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖೌ",
+    "roman": "khau",
+    "meaning": "khau",
+    "tts": "ಖೌ"
+  },
+  {
+    "id": 429,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖಂ",
+    "roman": "kham",
+    "meaning": "kham",
+    "tts": "ಖಂ"
+  },
+  {
+    "id": 430,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಖ",
+    "letter": "ಖಃ",
+    "roman": "khah",
+    "meaning": "khah",
+    "tts": "ಖಃ"
+  },
+  {
+    "id": 431,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗ",
+    "roman": "ga",
+    "meaning": "ga",
+    "tts": "ಗ"
+  },
+  {
+    "id": 432,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗಾ",
+    "roman": "gaa",
+    "meaning": "gaa",
+    "tts": "ಗಾ"
+  },
+  {
+    "id": 433,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗಿ",
+    "roman": "gi",
+    "meaning": "gi",
+    "tts": "ಗಿ"
+  },
+  {
+    "id": 434,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೀ",
+    "roman": "gii",
+    "meaning": "gii",
+    "tts": "ಗೀ"
+  },
+  {
+    "id": 435,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗು",
+    "roman": "gu",
+    "meaning": "gu",
+    "tts": "ಗು"
+  },
+  {
+    "id": 436,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೂ",
+    "roman": "guu",
+    "meaning": "guu",
+    "tts": "ಗೂ"
+  },
+  {
+    "id": 437,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೃ",
+    "roman": "gru",
+    "meaning": "gru",
+    "tts": "ಗೃ"
+  },
+  {
+    "id": 438,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೆ",
+    "roman": "ge",
+    "meaning": "ge",
+    "tts": "ಗೆ"
+  },
+  {
+    "id": 439,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೇ",
+    "roman": "gee",
+    "meaning": "gee",
+    "tts": "ಗೇ"
+  },
+  {
+    "id": 440,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೈ",
+    "roman": "gai",
+    "meaning": "gai",
+    "tts": "ಗೈ"
+  },
+  {
+    "id": 441,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೊ",
+    "roman": "go",
+    "meaning": "go",
+    "tts": "ಗೊ"
+  },
+  {
+    "id": 442,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೋ",
+    "roman": "goo",
+    "meaning": "goo",
+    "tts": "ಗೋ"
+  },
+  {
+    "id": 443,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗೌ",
+    "roman": "gau",
+    "meaning": "gau",
+    "tts": "ಗೌ"
+  },
+  {
+    "id": 444,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗಂ",
+    "roman": "gam",
+    "meaning": "gam",
+    "tts": "ಗಂ"
+  },
+  {
+    "id": 445,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಗ",
+    "letter": "ಗಃ",
+    "roman": "gah",
+    "meaning": "gah",
+    "tts": "ಗಃ"
+  },
+  {
+    "id": 446,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘ",
+    "roman": "gha",
+    "meaning": "gha",
+    "tts": "ಘ"
+  },
+  {
+    "id": 447,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘಾ",
+    "roman": "ghaa",
+    "meaning": "ghaa",
+    "tts": "ಘಾ"
+  },
+  {
+    "id": 448,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘಿ",
+    "roman": "ghi",
+    "meaning": "ghi",
+    "tts": "ಘಿ"
+  },
+  {
+    "id": 449,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೀ",
+    "roman": "ghii",
+    "meaning": "ghii",
+    "tts": "ಘೀ"
+  },
+  {
+    "id": 450,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘು",
+    "roman": "ghu",
+    "meaning": "ghu",
+    "tts": "ಘು"
+  },
+  {
+    "id": 451,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೂ",
+    "roman": "ghuu",
+    "meaning": "ghuu",
+    "tts": "ಘೂ"
+  },
+  {
+    "id": 452,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೃ",
+    "roman": "ghru",
+    "meaning": "ghru",
+    "tts": "ಘೃ"
+  },
+  {
+    "id": 453,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೆ",
+    "roman": "ghe",
+    "meaning": "ghe",
+    "tts": "ಘೆ"
+  },
+  {
+    "id": 454,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೇ",
+    "roman": "ghee",
+    "meaning": "ghee",
+    "tts": "ಘೇ"
+  },
+  {
+    "id": 455,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೈ",
+    "roman": "ghai",
+    "meaning": "ghai",
+    "tts": "ಘೈ"
+  },
+  {
+    "id": 456,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೊ",
+    "roman": "gho",
+    "meaning": "gho",
+    "tts": "ಘೊ"
+  },
+  {
+    "id": 457,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೋ",
+    "roman": "ghoo",
+    "meaning": "ghoo",
+    "tts": "ಘೋ"
+  },
+  {
+    "id": 458,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘೌ",
+    "roman": "ghau",
+    "meaning": "ghau",
+    "tts": "ಘೌ"
+  },
+  {
+    "id": 459,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘಂ",
+    "roman": "gham",
+    "meaning": "gham",
+    "tts": "ಘಂ"
+  },
+  {
+    "id": 460,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಘ",
+    "letter": "ಘಃ",
+    "roman": "ghah",
+    "meaning": "ghah",
+    "tts": "ಘಃ"
+  },
+  {
+    "id": 461,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙ",
+    "roman": "nga",
+    "meaning": "nga",
+    "tts": "ಙ"
+  },
+  {
+    "id": 462,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙಾ",
+    "roman": "ngaa",
+    "meaning": "ngaa",
+    "tts": "ಙಾ"
+  },
+  {
+    "id": 463,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙಿ",
+    "roman": "ngi",
+    "meaning": "ngi",
+    "tts": "ಙಿ"
+  },
+  {
+    "id": 464,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೀ",
+    "roman": "ngii",
+    "meaning": "ngii",
+    "tts": "ಙೀ"
+  },
+  {
+    "id": 465,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙು",
+    "roman": "ngu",
+    "meaning": "ngu",
+    "tts": "ಙು"
+  },
+  {
+    "id": 466,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೂ",
+    "roman": "nguu",
+    "meaning": "nguu",
+    "tts": "ಙೂ"
+  },
+  {
+    "id": 467,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೃ",
+    "roman": "ngru",
+    "meaning": "ngru",
+    "tts": "ಙೃ"
+  },
+  {
+    "id": 468,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೆ",
+    "roman": "nge",
+    "meaning": "nge",
+    "tts": "ಙೆ"
+  },
+  {
+    "id": 469,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೇ",
+    "roman": "ngee",
+    "meaning": "ngee",
+    "tts": "ಙೇ"
+  },
+  {
+    "id": 470,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೈ",
+    "roman": "ngai",
+    "meaning": "ngai",
+    "tts": "ಙೈ"
+  },
+  {
+    "id": 471,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೊ",
+    "roman": "ngo",
+    "meaning": "ngo",
+    "tts": "ಙೊ"
+  },
+  {
+    "id": 472,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೋ",
+    "roman": "ngoo",
+    "meaning": "ngoo",
+    "tts": "ಙೋ"
+  },
+  {
+    "id": 473,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙೌ",
+    "roman": "ngau",
+    "meaning": "ngau",
+    "tts": "ಙೌ"
+  },
+  {
+    "id": 474,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙಂ",
+    "roman": "ngam",
+    "meaning": "ngam",
+    "tts": "ಙಂ"
+  },
+  {
+    "id": 475,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಙ",
+    "letter": "ಙಃ",
+    "roman": "ngah",
+    "meaning": "ngah",
+    "tts": "ಙಃ"
+  },
+  {
+    "id": 476,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚ",
+    "roman": "cha",
+    "meaning": "cha",
+    "tts": "ಚ"
+  },
+  {
+    "id": 477,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚಾ",
+    "roman": "chaa",
+    "meaning": "chaa",
+    "tts": "ಚಾ"
+  },
+  {
+    "id": 478,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚಿ",
+    "roman": "chi",
+    "meaning": "chi",
+    "tts": "ಚಿ"
+  },
+  {
+    "id": 479,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೀ",
+    "roman": "chii",
+    "meaning": "chii",
+    "tts": "ಚೀ"
+  },
+  {
+    "id": 480,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚು",
+    "roman": "chu",
+    "meaning": "chu",
+    "tts": "ಚು"
+  },
+  {
+    "id": 481,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೂ",
+    "roman": "chuu",
+    "meaning": "chuu",
+    "tts": "ಚೂ"
+  },
+  {
+    "id": 482,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೃ",
+    "roman": "chru",
+    "meaning": "chru",
+    "tts": "ಚೃ"
+  },
+  {
+    "id": 483,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೆ",
+    "roman": "che",
+    "meaning": "che",
+    "tts": "ಚೆ"
+  },
+  {
+    "id": 484,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೇ",
+    "roman": "chee",
+    "meaning": "chee",
+    "tts": "ಚೇ"
+  },
+  {
+    "id": 485,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೈ",
+    "roman": "chai",
+    "meaning": "chai",
+    "tts": "ಚೈ"
+  },
+  {
+    "id": 486,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೊ",
+    "roman": "cho",
+    "meaning": "cho",
+    "tts": "ಚೊ"
+  },
+  {
+    "id": 487,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೋ",
+    "roman": "choo",
+    "meaning": "choo",
+    "tts": "ಚೋ"
+  },
+  {
+    "id": 488,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚೌ",
+    "roman": "chau",
+    "meaning": "chau",
+    "tts": "ಚೌ"
+  },
+  {
+    "id": 489,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚಂ",
+    "roman": "cham",
+    "meaning": "cham",
+    "tts": "ಚಂ"
+  },
+  {
+    "id": 490,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಚ",
+    "letter": "ಚಃ",
+    "roman": "chah",
+    "meaning": "chah",
+    "tts": "ಚಃ"
+  },
+  {
+    "id": 491,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛ",
+    "roman": "chha",
+    "meaning": "chha",
+    "tts": "ಛ"
+  },
+  {
+    "id": 492,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛಾ",
+    "roman": "chhaa",
+    "meaning": "chhaa",
+    "tts": "ಛಾ"
+  },
+  {
+    "id": 493,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛಿ",
+    "roman": "chhi",
+    "meaning": "chhi",
+    "tts": "ಛಿ"
+  },
+  {
+    "id": 494,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೀ",
+    "roman": "chhii",
+    "meaning": "chhii",
+    "tts": "ಛೀ"
+  },
+  {
+    "id": 495,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛು",
+    "roman": "chhu",
+    "meaning": "chhu",
+    "tts": "ಛು"
+  },
+  {
+    "id": 496,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೂ",
+    "roman": "chhuu",
+    "meaning": "chhuu",
+    "tts": "ಛೂ"
+  },
+  {
+    "id": 497,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೃ",
+    "roman": "chhru",
+    "meaning": "chhru",
+    "tts": "ಛೃ"
+  },
+  {
+    "id": 498,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೆ",
+    "roman": "chhe",
+    "meaning": "chhe",
+    "tts": "ಛೆ"
+  },
+  {
+    "id": 499,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೇ",
+    "roman": "chhee",
+    "meaning": "chhee",
+    "tts": "ಛೇ"
+  },
+  {
+    "id": 500,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೈ",
+    "roman": "chhai",
+    "meaning": "chhai",
+    "tts": "ಛೈ"
+  },
+  {
+    "id": 501,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೊ",
+    "roman": "chho",
+    "meaning": "chho",
+    "tts": "ಛೊ"
+  },
+  {
+    "id": 502,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೋ",
+    "roman": "chhoo",
+    "meaning": "chhoo",
+    "tts": "ಛೋ"
+  },
+  {
+    "id": 503,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛೌ",
+    "roman": "chhau",
+    "meaning": "chhau",
+    "tts": "ಛೌ"
+  },
+  {
+    "id": 504,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛಂ",
+    "roman": "chham",
+    "meaning": "chham",
+    "tts": "ಛಂ"
+  },
+  {
+    "id": 505,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಛ",
+    "letter": "ಛಃ",
+    "roman": "chhah",
+    "meaning": "chhah",
+    "tts": "ಛಃ"
+  },
+  {
+    "id": 506,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜ",
+    "roman": "ja",
+    "meaning": "ja",
+    "tts": "ಜ"
+  },
+  {
+    "id": 507,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜಾ",
+    "roman": "jaa",
+    "meaning": "jaa",
+    "tts": "ಜಾ"
+  },
+  {
+    "id": 508,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜಿ",
+    "roman": "ji",
+    "meaning": "ji",
+    "tts": "ಜಿ"
+  },
+  {
+    "id": 509,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೀ",
+    "roman": "jii",
+    "meaning": "jii",
+    "tts": "ಜೀ"
+  },
+  {
+    "id": 510,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜು",
+    "roman": "ju",
+    "meaning": "ju",
+    "tts": "ಜು"
+  },
+  {
+    "id": 511,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೂ",
+    "roman": "juu",
+    "meaning": "juu",
+    "tts": "ಜೂ"
+  },
+  {
+    "id": 512,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೃ",
+    "roman": "jru",
+    "meaning": "jru",
+    "tts": "ಜೃ"
+  },
+  {
+    "id": 513,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೆ",
+    "roman": "je",
+    "meaning": "je",
+    "tts": "ಜೆ"
+  },
+  {
+    "id": 514,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೇ",
+    "roman": "jee",
+    "meaning": "jee",
+    "tts": "ಜೇ"
+  },
+  {
+    "id": 515,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೈ",
+    "roman": "jai",
+    "meaning": "jai",
+    "tts": "ಜೈ"
+  },
+  {
+    "id": 516,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೊ",
+    "roman": "jo",
+    "meaning": "jo",
+    "tts": "ಜೊ"
+  },
+  {
+    "id": 517,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೋ",
+    "roman": "joo",
+    "meaning": "joo",
+    "tts": "ಜೋ"
+  },
+  {
+    "id": 518,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜೌ",
+    "roman": "jau",
+    "meaning": "jau",
+    "tts": "ಜೌ"
+  },
+  {
+    "id": 519,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜಂ",
+    "roman": "jam",
+    "meaning": "jam",
+    "tts": "ಜಂ"
+  },
+  {
+    "id": 520,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ",
+    "letter": "ಜಃ",
+    "roman": "jah",
+    "meaning": "jah",
+    "tts": "ಜಃ"
+  },
+  {
+    "id": 521,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝ",
+    "roman": "jha",
+    "meaning": "jha",
+    "tts": "ಝ"
+  },
+  {
+    "id": 522,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝಾ",
+    "roman": "jhaa",
+    "meaning": "jhaa",
+    "tts": "ಝಾ"
+  },
+  {
+    "id": 523,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝಿ",
+    "roman": "jhi",
+    "meaning": "jhi",
+    "tts": "ಝಿ"
+  },
+  {
+    "id": 524,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೀ",
+    "roman": "jhii",
+    "meaning": "jhii",
+    "tts": "ಝೀ"
+  },
+  {
+    "id": 525,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝು",
+    "roman": "jhu",
+    "meaning": "jhu",
+    "tts": "ಝು"
+  },
+  {
+    "id": 526,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೂ",
+    "roman": "jhuu",
+    "meaning": "jhuu",
+    "tts": "ಝೂ"
+  },
+  {
+    "id": 527,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೃ",
+    "roman": "jhru",
+    "meaning": "jhru",
+    "tts": "ಝೃ"
+  },
+  {
+    "id": 528,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೆ",
+    "roman": "jhe",
+    "meaning": "jhe",
+    "tts": "ಝೆ"
+  },
+  {
+    "id": 529,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೇ",
+    "roman": "jhee",
+    "meaning": "jhee",
+    "tts": "ಝೇ"
+  },
+  {
+    "id": 530,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೈ",
+    "roman": "jhai",
+    "meaning": "jhai",
+    "tts": "ಝೈ"
+  },
+  {
+    "id": 531,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೊ",
+    "roman": "jho",
+    "meaning": "jho",
+    "tts": "ಝೊ"
+  },
+  {
+    "id": 532,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೋ",
+    "roman": "jhoo",
+    "meaning": "jhoo",
+    "tts": "ಝೋ"
+  },
+  {
+    "id": 533,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝೌ",
+    "roman": "jhau",
+    "meaning": "jhau",
+    "tts": "ಝೌ"
+  },
+  {
+    "id": 534,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝಂ",
+    "roman": "jham",
+    "meaning": "jham",
+    "tts": "ಝಂ"
+  },
+  {
+    "id": 535,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಝ",
+    "letter": "ಝಃ",
+    "roman": "jhah",
+    "meaning": "jhah",
+    "tts": "ಝಃ"
+  },
+  {
+    "id": 536,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞ",
+    "roman": "nya",
+    "meaning": "nya",
+    "tts": "ಞ"
+  },
+  {
+    "id": 537,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞಾ",
+    "roman": "nyaa",
+    "meaning": "nyaa",
+    "tts": "ಞಾ"
+  },
+  {
+    "id": 538,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞಿ",
+    "roman": "nyi",
+    "meaning": "nyi",
+    "tts": "ಞಿ"
+  },
+  {
+    "id": 539,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೀ",
+    "roman": "nyii",
+    "meaning": "nyii",
+    "tts": "ಞೀ"
+  },
+  {
+    "id": 540,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞು",
+    "roman": "nyu",
+    "meaning": "nyu",
+    "tts": "ಞು"
+  },
+  {
+    "id": 541,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೂ",
+    "roman": "nyuu",
+    "meaning": "nyuu",
+    "tts": "ಞೂ"
+  },
+  {
+    "id": 542,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೃ",
+    "roman": "nyru",
+    "meaning": "nyru",
+    "tts": "ಞೃ"
+  },
+  {
+    "id": 543,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೆ",
+    "roman": "nye",
+    "meaning": "nye",
+    "tts": "ಞೆ"
+  },
+  {
+    "id": 544,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೇ",
+    "roman": "nyee",
+    "meaning": "nyee",
+    "tts": "ಞೇ"
+  },
+  {
+    "id": 545,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೈ",
+    "roman": "nyai",
+    "meaning": "nyai",
+    "tts": "ಞೈ"
+  },
+  {
+    "id": 546,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೊ",
+    "roman": "nyo",
+    "meaning": "nyo",
+    "tts": "ಞೊ"
+  },
+  {
+    "id": 547,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೋ",
+    "roman": "nyoo",
+    "meaning": "nyoo",
+    "tts": "ಞೋ"
+  },
+  {
+    "id": 548,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞೌ",
+    "roman": "nyau",
+    "meaning": "nyau",
+    "tts": "ಞೌ"
+  },
+  {
+    "id": 549,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞಂ",
+    "roman": "nyam",
+    "meaning": "nyam",
+    "tts": "ಞಂ"
+  },
+  {
+    "id": 550,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಞ",
+    "letter": "ಞಃ",
+    "roman": "nyah",
+    "meaning": "nyah",
+    "tts": "ಞಃ"
+  },
+  {
+    "id": 551,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟ",
+    "roman": "ta",
+    "meaning": "ta",
+    "tts": "ಟ"
+  },
+  {
+    "id": 552,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟಾ",
+    "roman": "taa",
+    "meaning": "taa",
+    "tts": "ಟಾ"
+  },
+  {
+    "id": 553,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟಿ",
+    "roman": "ti",
+    "meaning": "ti",
+    "tts": "ಟಿ"
+  },
+  {
+    "id": 554,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೀ",
+    "roman": "tii",
+    "meaning": "tii",
+    "tts": "ಟೀ"
+  },
+  {
+    "id": 555,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟು",
+    "roman": "tu",
+    "meaning": "tu",
+    "tts": "ಟು"
+  },
+  {
+    "id": 556,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೂ",
+    "roman": "tuu",
+    "meaning": "tuu",
+    "tts": "ಟೂ"
+  },
+  {
+    "id": 557,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೃ",
+    "roman": "tru",
+    "meaning": "tru",
+    "tts": "ಟೃ"
+  },
+  {
+    "id": 558,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೆ",
+    "roman": "te",
+    "meaning": "te",
+    "tts": "ಟೆ"
+  },
+  {
+    "id": 559,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೇ",
+    "roman": "tee",
+    "meaning": "tee",
+    "tts": "ಟೇ"
+  },
+  {
+    "id": 560,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೈ",
+    "roman": "tai",
+    "meaning": "tai",
+    "tts": "ಟೈ"
+  },
+  {
+    "id": 561,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೊ",
+    "roman": "to",
+    "meaning": "to",
+    "tts": "ಟೊ"
+  },
+  {
+    "id": 562,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೋ",
+    "roman": "too",
+    "meaning": "too",
+    "tts": "ಟೋ"
+  },
+  {
+    "id": 563,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟೌ",
+    "roman": "tau",
+    "meaning": "tau",
+    "tts": "ಟೌ"
+  },
+  {
+    "id": 564,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟಂ",
+    "roman": "tam",
+    "meaning": "tam",
+    "tts": "ಟಂ"
+  },
+  {
+    "id": 565,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಟ",
+    "letter": "ಟಃ",
+    "roman": "tah",
+    "meaning": "tah",
+    "tts": "ಟಃ"
+  },
+  {
+    "id": 566,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠ",
+    "roman": "tha",
+    "meaning": "tha",
+    "tts": "ಠ"
+  },
+  {
+    "id": 567,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠಾ",
+    "roman": "thaa",
+    "meaning": "thaa",
+    "tts": "ಠಾ"
+  },
+  {
+    "id": 568,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠಿ",
+    "roman": "thi",
+    "meaning": "thi",
+    "tts": "ಠಿ"
+  },
+  {
+    "id": 569,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೀ",
+    "roman": "thii",
+    "meaning": "thii",
+    "tts": "ಠೀ"
+  },
+  {
+    "id": 570,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠು",
+    "roman": "thu",
+    "meaning": "thu",
+    "tts": "ಠು"
+  },
+  {
+    "id": 571,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೂ",
+    "roman": "thuu",
+    "meaning": "thuu",
+    "tts": "ಠೂ"
+  },
+  {
+    "id": 572,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೃ",
+    "roman": "thru",
+    "meaning": "thru",
+    "tts": "ಠೃ"
+  },
+  {
+    "id": 573,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೆ",
+    "roman": "the",
+    "meaning": "the",
+    "tts": "ಠೆ"
+  },
+  {
+    "id": 574,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೇ",
+    "roman": "thee",
+    "meaning": "thee",
+    "tts": "ಠೇ"
+  },
+  {
+    "id": 575,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೈ",
+    "roman": "thai",
+    "meaning": "thai",
+    "tts": "ಠೈ"
+  },
+  {
+    "id": 576,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೊ",
+    "roman": "tho",
+    "meaning": "tho",
+    "tts": "ಠೊ"
+  },
+  {
+    "id": 577,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೋ",
+    "roman": "thoo",
+    "meaning": "thoo",
+    "tts": "ಠೋ"
+  },
+  {
+    "id": 578,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠೌ",
+    "roman": "thau",
+    "meaning": "thau",
+    "tts": "ಠೌ"
+  },
+  {
+    "id": 579,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠಂ",
+    "roman": "tham",
+    "meaning": "tham",
+    "tts": "ಠಂ"
+  },
+  {
+    "id": 580,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಠ",
+    "letter": "ಠಃ",
+    "roman": "thah",
+    "meaning": "thah",
+    "tts": "ಠಃ"
+  },
+  {
+    "id": 581,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡ",
+    "roman": "da",
+    "meaning": "da",
+    "tts": "ಡ"
+  },
+  {
+    "id": 582,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡಾ",
+    "roman": "daa",
+    "meaning": "daa",
+    "tts": "ಡಾ"
+  },
+  {
+    "id": 583,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡಿ",
+    "roman": "di",
+    "meaning": "di",
+    "tts": "ಡಿ"
+  },
+  {
+    "id": 584,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೀ",
+    "roman": "dii",
+    "meaning": "dii",
+    "tts": "ಡೀ"
+  },
+  {
+    "id": 585,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡು",
+    "roman": "du",
+    "meaning": "du",
+    "tts": "ಡು"
+  },
+  {
+    "id": 586,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೂ",
+    "roman": "duu",
+    "meaning": "duu",
+    "tts": "ಡೂ"
+  },
+  {
+    "id": 587,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೃ",
+    "roman": "dru",
+    "meaning": "dru",
+    "tts": "ಡೃ"
+  },
+  {
+    "id": 588,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೆ",
+    "roman": "de",
+    "meaning": "de",
+    "tts": "ಡೆ"
+  },
+  {
+    "id": 589,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೇ",
+    "roman": "dee",
+    "meaning": "dee",
+    "tts": "ಡೇ"
+  },
+  {
+    "id": 590,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೈ",
+    "roman": "dai",
+    "meaning": "dai",
+    "tts": "ಡೈ"
+  },
+  {
+    "id": 591,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೊ",
+    "roman": "do",
+    "meaning": "do",
+    "tts": "ಡೊ"
+  },
+  {
+    "id": 592,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೋ",
+    "roman": "doo",
+    "meaning": "doo",
+    "tts": "ಡೋ"
+  },
+  {
+    "id": 593,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡೌ",
+    "roman": "dau",
+    "meaning": "dau",
+    "tts": "ಡೌ"
+  },
+  {
+    "id": 594,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡಂ",
+    "roman": "dam",
+    "meaning": "dam",
+    "tts": "ಡಂ"
+  },
+  {
+    "id": 595,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಡ",
+    "letter": "ಡಃ",
+    "roman": "dah",
+    "meaning": "dah",
+    "tts": "ಡಃ"
+  },
+  {
+    "id": 596,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢ",
+    "roman": "dha",
+    "meaning": "dha",
+    "tts": "ಢ"
+  },
+  {
+    "id": 597,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢಾ",
+    "roman": "dhaa",
+    "meaning": "dhaa",
+    "tts": "ಢಾ"
+  },
+  {
+    "id": 598,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢಿ",
+    "roman": "dhi",
+    "meaning": "dhi",
+    "tts": "ಢಿ"
+  },
+  {
+    "id": 599,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೀ",
+    "roman": "dhii",
+    "meaning": "dhii",
+    "tts": "ಢೀ"
+  },
+  {
+    "id": 600,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢು",
+    "roman": "dhu",
+    "meaning": "dhu",
+    "tts": "ಢು"
+  },
+  {
+    "id": 601,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೂ",
+    "roman": "dhuu",
+    "meaning": "dhuu",
+    "tts": "ಢೂ"
+  },
+  {
+    "id": 602,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೃ",
+    "roman": "dhru",
+    "meaning": "dhru",
+    "tts": "ಢೃ"
+  },
+  {
+    "id": 603,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೆ",
+    "roman": "dhe",
+    "meaning": "dhe",
+    "tts": "ಢೆ"
+  },
+  {
+    "id": 604,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೇ",
+    "roman": "dhee",
+    "meaning": "dhee",
+    "tts": "ಢೇ"
+  },
+  {
+    "id": 605,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೈ",
+    "roman": "dhai",
+    "meaning": "dhai",
+    "tts": "ಢೈ"
+  },
+  {
+    "id": 606,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೊ",
+    "roman": "dho",
+    "meaning": "dho",
+    "tts": "ಢೊ"
+  },
+  {
+    "id": 607,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೋ",
+    "roman": "dhoo",
+    "meaning": "dhoo",
+    "tts": "ಢೋ"
+  },
+  {
+    "id": 608,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢೌ",
+    "roman": "dhau",
+    "meaning": "dhau",
+    "tts": "ಢೌ"
+  },
+  {
+    "id": 609,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢಂ",
+    "roman": "dham",
+    "meaning": "dham",
+    "tts": "ಢಂ"
+  },
+  {
+    "id": 610,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಢ",
+    "letter": "ಢಃ",
+    "roman": "dhah",
+    "meaning": "dhah",
+    "tts": "ಢಃ"
+  },
+  {
+    "id": 611,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣ",
+    "roman": "na",
+    "meaning": "na",
+    "tts": "ಣ"
+  },
+  {
+    "id": 612,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣಾ",
+    "roman": "naa",
+    "meaning": "naa",
+    "tts": "ಣಾ"
+  },
+  {
+    "id": 613,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣಿ",
+    "roman": "ni",
+    "meaning": "ni",
+    "tts": "ಣಿ"
+  },
+  {
+    "id": 614,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೀ",
+    "roman": "nii",
+    "meaning": "nii",
+    "tts": "ಣೀ"
+  },
+  {
+    "id": 615,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣು",
+    "roman": "nu",
+    "meaning": "nu",
+    "tts": "ಣು"
+  },
+  {
+    "id": 616,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೂ",
+    "roman": "nuu",
+    "meaning": "nuu",
+    "tts": "ಣೂ"
+  },
+  {
+    "id": 617,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೃ",
+    "roman": "nru",
+    "meaning": "nru",
+    "tts": "ಣೃ"
+  },
+  {
+    "id": 618,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೆ",
+    "roman": "ne",
+    "meaning": "ne",
+    "tts": "ಣೆ"
+  },
+  {
+    "id": 619,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೇ",
+    "roman": "nee",
+    "meaning": "nee",
+    "tts": "ಣೇ"
+  },
+  {
+    "id": 620,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೈ",
+    "roman": "nai",
+    "meaning": "nai",
+    "tts": "ಣೈ"
+  },
+  {
+    "id": 621,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೊ",
+    "roman": "no",
+    "meaning": "no",
+    "tts": "ಣೊ"
+  },
+  {
+    "id": 622,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೋ",
+    "roman": "noo",
+    "meaning": "noo",
+    "tts": "ಣೋ"
+  },
+  {
+    "id": 623,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣೌ",
+    "roman": "nau",
+    "meaning": "nau",
+    "tts": "ಣೌ"
+  },
+  {
+    "id": 624,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣಂ",
+    "roman": "nam",
+    "meaning": "nam",
+    "tts": "ಣಂ"
+  },
+  {
+    "id": 625,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಣ",
+    "letter": "ಣಃ",
+    "roman": "nah",
+    "meaning": "nah",
+    "tts": "ಣಃ"
+  },
+  {
+    "id": 626,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತ",
+    "roman": "ta",
+    "meaning": "ta",
+    "tts": "ತ"
+  },
+  {
+    "id": 627,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತಾ",
+    "roman": "taa",
+    "meaning": "taa",
+    "tts": "ತಾ"
+  },
+  {
+    "id": 628,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತಿ",
+    "roman": "ti",
+    "meaning": "ti",
+    "tts": "ತಿ"
+  },
+  {
+    "id": 629,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೀ",
+    "roman": "tii",
+    "meaning": "tii",
+    "tts": "ತೀ"
+  },
+  {
+    "id": 630,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತು",
+    "roman": "tu",
+    "meaning": "tu",
+    "tts": "ತು"
+  },
+  {
+    "id": 631,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೂ",
+    "roman": "tuu",
+    "meaning": "tuu",
+    "tts": "ತೂ"
+  },
+  {
+    "id": 632,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೃ",
+    "roman": "tru",
+    "meaning": "tru",
+    "tts": "ತೃ"
+  },
+  {
+    "id": 633,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೆ",
+    "roman": "te",
+    "meaning": "te",
+    "tts": "ತೆ"
+  },
+  {
+    "id": 634,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೇ",
+    "roman": "tee",
+    "meaning": "tee",
+    "tts": "ತೇ"
+  },
+  {
+    "id": 635,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೈ",
+    "roman": "tai",
+    "meaning": "tai",
+    "tts": "ತೈ"
+  },
+  {
+    "id": 636,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೊ",
+    "roman": "to",
+    "meaning": "to",
+    "tts": "ತೊ"
+  },
+  {
+    "id": 637,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೋ",
+    "roman": "too",
+    "meaning": "too",
+    "tts": "ತೋ"
+  },
+  {
+    "id": 638,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತೌ",
+    "roman": "tau",
+    "meaning": "tau",
+    "tts": "ತೌ"
+  },
+  {
+    "id": 639,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತಂ",
+    "roman": "tam",
+    "meaning": "tam",
+    "tts": "ತಂ"
+  },
+  {
+    "id": 640,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ತ",
+    "letter": "ತಃ",
+    "roman": "tah",
+    "meaning": "tah",
+    "tts": "ತಃ"
+  },
+  {
+    "id": 641,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥ",
+    "roman": "tha",
+    "meaning": "tha",
+    "tts": "ಥ"
+  },
+  {
+    "id": 642,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥಾ",
+    "roman": "thaa",
+    "meaning": "thaa",
+    "tts": "ಥಾ"
+  },
+  {
+    "id": 643,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥಿ",
+    "roman": "thi",
+    "meaning": "thi",
+    "tts": "ಥಿ"
+  },
+  {
+    "id": 644,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೀ",
+    "roman": "thii",
+    "meaning": "thii",
+    "tts": "ಥೀ"
+  },
+  {
+    "id": 645,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥು",
+    "roman": "thu",
+    "meaning": "thu",
+    "tts": "ಥು"
+  },
+  {
+    "id": 646,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೂ",
+    "roman": "thuu",
+    "meaning": "thuu",
+    "tts": "ಥೂ"
+  },
+  {
+    "id": 647,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೃ",
+    "roman": "thru",
+    "meaning": "thru",
+    "tts": "ಥೃ"
+  },
+  {
+    "id": 648,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೆ",
+    "roman": "the",
+    "meaning": "the",
+    "tts": "ಥೆ"
+  },
+  {
+    "id": 649,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೇ",
+    "roman": "thee",
+    "meaning": "thee",
+    "tts": "ಥೇ"
+  },
+  {
+    "id": 650,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೈ",
+    "roman": "thai",
+    "meaning": "thai",
+    "tts": "ಥೈ"
+  },
+  {
+    "id": 651,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೊ",
+    "roman": "tho",
+    "meaning": "tho",
+    "tts": "ಥೊ"
+  },
+  {
+    "id": 652,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೋ",
+    "roman": "thoo",
+    "meaning": "thoo",
+    "tts": "ಥೋ"
+  },
+  {
+    "id": 653,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥೌ",
+    "roman": "thau",
+    "meaning": "thau",
+    "tts": "ಥೌ"
+  },
+  {
+    "id": 654,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥಂ",
+    "roman": "tham",
+    "meaning": "tham",
+    "tts": "ಥಂ"
+  },
+  {
+    "id": 655,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಥ",
+    "letter": "ಥಃ",
+    "roman": "thah",
+    "meaning": "thah",
+    "tts": "ಥಃ"
+  },
+  {
+    "id": 656,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದ",
+    "roman": "da",
+    "meaning": "da",
+    "tts": "ದ"
+  },
+  {
+    "id": 657,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದಾ",
+    "roman": "daa",
+    "meaning": "daa",
+    "tts": "ದಾ"
+  },
+  {
+    "id": 658,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದಿ",
+    "roman": "di",
+    "meaning": "di",
+    "tts": "ದಿ"
+  },
+  {
+    "id": 659,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೀ",
+    "roman": "dii",
+    "meaning": "dii",
+    "tts": "ದೀ"
+  },
+  {
+    "id": 660,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದು",
+    "roman": "du",
+    "meaning": "du",
+    "tts": "ದು"
+  },
+  {
+    "id": 661,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೂ",
+    "roman": "duu",
+    "meaning": "duu",
+    "tts": "ದೂ"
+  },
+  {
+    "id": 662,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೃ",
+    "roman": "dru",
+    "meaning": "dru",
+    "tts": "ದೃ"
+  },
+  {
+    "id": 663,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೆ",
+    "roman": "de",
+    "meaning": "de",
+    "tts": "ದೆ"
+  },
+  {
+    "id": 664,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೇ",
+    "roman": "dee",
+    "meaning": "dee",
+    "tts": "ದೇ"
+  },
+  {
+    "id": 665,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೈ",
+    "roman": "dai",
+    "meaning": "dai",
+    "tts": "ದೈ"
+  },
+  {
+    "id": 666,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೊ",
+    "roman": "do",
+    "meaning": "do",
+    "tts": "ದೊ"
+  },
+  {
+    "id": 667,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೋ",
+    "roman": "doo",
+    "meaning": "doo",
+    "tts": "ದೋ"
+  },
+  {
+    "id": 668,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದೌ",
+    "roman": "dau",
+    "meaning": "dau",
+    "tts": "ದೌ"
+  },
+  {
+    "id": 669,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದಂ",
+    "roman": "dam",
+    "meaning": "dam",
+    "tts": "ದಂ"
+  },
+  {
+    "id": 670,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ದ",
+    "letter": "ದಃ",
+    "roman": "dah",
+    "meaning": "dah",
+    "tts": "ದಃ"
+  },
+  {
+    "id": 671,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧ",
+    "roman": "dha",
+    "meaning": "dha",
+    "tts": "ಧ"
+  },
+  {
+    "id": 672,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧಾ",
+    "roman": "dhaa",
+    "meaning": "dhaa",
+    "tts": "ಧಾ"
+  },
+  {
+    "id": 673,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧಿ",
+    "roman": "dhi",
+    "meaning": "dhi",
+    "tts": "ಧಿ"
+  },
+  {
+    "id": 674,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೀ",
+    "roman": "dhii",
+    "meaning": "dhii",
+    "tts": "ಧೀ"
+  },
+  {
+    "id": 675,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧು",
+    "roman": "dhu",
+    "meaning": "dhu",
+    "tts": "ಧು"
+  },
+  {
+    "id": 676,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೂ",
+    "roman": "dhuu",
+    "meaning": "dhuu",
+    "tts": "ಧೂ"
+  },
+  {
+    "id": 677,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೃ",
+    "roman": "dhru",
+    "meaning": "dhru",
+    "tts": "ಧೃ"
+  },
+  {
+    "id": 678,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೆ",
+    "roman": "dhe",
+    "meaning": "dhe",
+    "tts": "ಧೆ"
+  },
+  {
+    "id": 679,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೇ",
+    "roman": "dhee",
+    "meaning": "dhee",
+    "tts": "ಧೇ"
+  },
+  {
+    "id": 680,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೈ",
+    "roman": "dhai",
+    "meaning": "dhai",
+    "tts": "ಧೈ"
+  },
+  {
+    "id": 681,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೊ",
+    "roman": "dho",
+    "meaning": "dho",
+    "tts": "ಧೊ"
+  },
+  {
+    "id": 682,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೋ",
+    "roman": "dhoo",
+    "meaning": "dhoo",
+    "tts": "ಧೋ"
+  },
+  {
+    "id": 683,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧೌ",
+    "roman": "dhau",
+    "meaning": "dhau",
+    "tts": "ಧೌ"
+  },
+  {
+    "id": 684,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧಂ",
+    "roman": "dham",
+    "meaning": "dham",
+    "tts": "ಧಂ"
+  },
+  {
+    "id": 685,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಧ",
+    "letter": "ಧಃ",
+    "roman": "dhah",
+    "meaning": "dhah",
+    "tts": "ಧಃ"
+  },
+  {
+    "id": 686,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನ",
+    "roman": "na",
+    "meaning": "na",
+    "tts": "ನ"
+  },
+  {
+    "id": 687,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನಾ",
+    "roman": "naa",
+    "meaning": "naa",
+    "tts": "ನಾ"
+  },
+  {
+    "id": 688,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನಿ",
+    "roman": "ni",
+    "meaning": "ni",
+    "tts": "ನಿ"
+  },
+  {
+    "id": 689,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೀ",
+    "roman": "nii",
+    "meaning": "nii",
+    "tts": "ನೀ"
+  },
+  {
+    "id": 690,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನು",
+    "roman": "nu",
+    "meaning": "nu",
+    "tts": "ನು"
+  },
+  {
+    "id": 691,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೂ",
+    "roman": "nuu",
+    "meaning": "nuu",
+    "tts": "ನೂ"
+  },
+  {
+    "id": 692,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೃ",
+    "roman": "nru",
+    "meaning": "nru",
+    "tts": "ನೃ"
+  },
+  {
+    "id": 693,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೆ",
+    "roman": "ne",
+    "meaning": "ne",
+    "tts": "ನೆ"
+  },
+  {
+    "id": 694,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೇ",
+    "roman": "nee",
+    "meaning": "nee",
+    "tts": "ನೇ"
+  },
+  {
+    "id": 695,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೈ",
+    "roman": "nai",
+    "meaning": "nai",
+    "tts": "ನೈ"
+  },
+  {
+    "id": 696,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೊ",
+    "roman": "no",
+    "meaning": "no",
+    "tts": "ನೊ"
+  },
+  {
+    "id": 697,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೋ",
+    "roman": "noo",
+    "meaning": "noo",
+    "tts": "ನೋ"
+  },
+  {
+    "id": 698,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನೌ",
+    "roman": "nau",
+    "meaning": "nau",
+    "tts": "ನೌ"
+  },
+  {
+    "id": 699,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನಂ",
+    "roman": "nam",
+    "meaning": "nam",
+    "tts": "ನಂ"
+  },
+  {
+    "id": 700,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ನ",
+    "letter": "ನಃ",
+    "roman": "nah",
+    "meaning": "nah",
+    "tts": "ನಃ"
+  },
+  {
+    "id": 701,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪ",
+    "roman": "pa",
+    "meaning": "pa",
+    "tts": "ಪ"
+  },
+  {
+    "id": 702,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪಾ",
+    "roman": "paa",
+    "meaning": "paa",
+    "tts": "ಪಾ"
+  },
+  {
+    "id": 703,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪಿ",
+    "roman": "pi",
+    "meaning": "pi",
+    "tts": "ಪಿ"
+  },
+  {
+    "id": 704,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೀ",
+    "roman": "pii",
+    "meaning": "pii",
+    "tts": "ಪೀ"
+  },
+  {
+    "id": 705,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪು",
+    "roman": "pu",
+    "meaning": "pu",
+    "tts": "ಪು"
+  },
+  {
+    "id": 706,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೂ",
+    "roman": "puu",
+    "meaning": "puu",
+    "tts": "ಪೂ"
+  },
+  {
+    "id": 707,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೃ",
+    "roman": "pru",
+    "meaning": "pru",
+    "tts": "ಪೃ"
+  },
+  {
+    "id": 708,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೆ",
+    "roman": "pe",
+    "meaning": "pe",
+    "tts": "ಪೆ"
+  },
+  {
+    "id": 709,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೇ",
+    "roman": "pee",
+    "meaning": "pee",
+    "tts": "ಪೇ"
+  },
+  {
+    "id": 710,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೈ",
+    "roman": "pai",
+    "meaning": "pai",
+    "tts": "ಪೈ"
+  },
+  {
+    "id": 711,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೊ",
+    "roman": "po",
+    "meaning": "po",
+    "tts": "ಪೊ"
+  },
+  {
+    "id": 712,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೋ",
+    "roman": "poo",
+    "meaning": "poo",
+    "tts": "ಪೋ"
+  },
+  {
+    "id": 713,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪೌ",
+    "roman": "pau",
+    "meaning": "pau",
+    "tts": "ಪೌ"
+  },
+  {
+    "id": 714,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪಂ",
+    "roman": "pam",
+    "meaning": "pam",
+    "tts": "ಪಂ"
+  },
+  {
+    "id": 715,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಪ",
+    "letter": "ಪಃ",
+    "roman": "pah",
+    "meaning": "pah",
+    "tts": "ಪಃ"
+  },
+  {
+    "id": 716,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫ",
+    "roman": "pha",
+    "meaning": "pha",
+    "tts": "ಫ"
+  },
+  {
+    "id": 717,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫಾ",
+    "roman": "phaa",
+    "meaning": "phaa",
+    "tts": "ಫಾ"
+  },
+  {
+    "id": 718,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫಿ",
+    "roman": "phi",
+    "meaning": "phi",
+    "tts": "ಫಿ"
+  },
+  {
+    "id": 719,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೀ",
+    "roman": "phii",
+    "meaning": "phii",
+    "tts": "ಫೀ"
+  },
+  {
+    "id": 720,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫು",
+    "roman": "phu",
+    "meaning": "phu",
+    "tts": "ಫು"
+  },
+  {
+    "id": 721,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೂ",
+    "roman": "phuu",
+    "meaning": "phuu",
+    "tts": "ಫೂ"
+  },
+  {
+    "id": 722,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೃ",
+    "roman": "phru",
+    "meaning": "phru",
+    "tts": "ಫೃ"
+  },
+  {
+    "id": 723,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೆ",
+    "roman": "phe",
+    "meaning": "phe",
+    "tts": "ಫೆ"
+  },
+  {
+    "id": 724,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೇ",
+    "roman": "phee",
+    "meaning": "phee",
+    "tts": "ಫೇ"
+  },
+  {
+    "id": 725,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೈ",
+    "roman": "phai",
+    "meaning": "phai",
+    "tts": "ಫೈ"
+  },
+  {
+    "id": 726,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೊ",
+    "roman": "pho",
+    "meaning": "pho",
+    "tts": "ಫೊ"
+  },
+  {
+    "id": 727,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೋ",
+    "roman": "phoo",
+    "meaning": "phoo",
+    "tts": "ಫೋ"
+  },
+  {
+    "id": 728,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫೌ",
+    "roman": "phau",
+    "meaning": "phau",
+    "tts": "ಫೌ"
+  },
+  {
+    "id": 729,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫಂ",
+    "roman": "pham",
+    "meaning": "pham",
+    "tts": "ಫಂ"
+  },
+  {
+    "id": 730,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಫ",
+    "letter": "ಫಃ",
+    "roman": "phah",
+    "meaning": "phah",
+    "tts": "ಫಃ"
+  },
+  {
+    "id": 731,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬ",
+    "roman": "ba",
+    "meaning": "ba",
+    "tts": "ಬ"
+  },
+  {
+    "id": 732,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬಾ",
+    "roman": "baa",
+    "meaning": "baa",
+    "tts": "ಬಾ"
+  },
+  {
+    "id": 733,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬಿ",
+    "roman": "bi",
+    "meaning": "bi",
+    "tts": "ಬಿ"
+  },
+  {
+    "id": 734,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೀ",
+    "roman": "bii",
+    "meaning": "bii",
+    "tts": "ಬೀ"
+  },
+  {
+    "id": 735,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬು",
+    "roman": "bu",
+    "meaning": "bu",
+    "tts": "ಬು"
+  },
+  {
+    "id": 736,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೂ",
+    "roman": "buu",
+    "meaning": "buu",
+    "tts": "ಬೂ"
+  },
+  {
+    "id": 737,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೃ",
+    "roman": "bru",
+    "meaning": "bru",
+    "tts": "ಬೃ"
+  },
+  {
+    "id": 738,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೆ",
+    "roman": "be",
+    "meaning": "be",
+    "tts": "ಬೆ"
+  },
+  {
+    "id": 739,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೇ",
+    "roman": "bee",
+    "meaning": "bee",
+    "tts": "ಬೇ"
+  },
+  {
+    "id": 740,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೈ",
+    "roman": "bai",
+    "meaning": "bai",
+    "tts": "ಬೈ"
+  },
+  {
+    "id": 741,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೊ",
+    "roman": "bo",
+    "meaning": "bo",
+    "tts": "ಬೊ"
+  },
+  {
+    "id": 742,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೋ",
+    "roman": "boo",
+    "meaning": "boo",
+    "tts": "ಬೋ"
+  },
+  {
+    "id": 743,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬೌ",
+    "roman": "bau",
+    "meaning": "bau",
+    "tts": "ಬೌ"
+  },
+  {
+    "id": 744,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬಂ",
+    "roman": "bam",
+    "meaning": "bam",
+    "tts": "ಬಂ"
+  },
+  {
+    "id": 745,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಬ",
+    "letter": "ಬಃ",
+    "roman": "bah",
+    "meaning": "bah",
+    "tts": "ಬಃ"
+  },
+  {
+    "id": 746,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭ",
+    "roman": "bha",
+    "meaning": "bha",
+    "tts": "ಭ"
+  },
+  {
+    "id": 747,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭಾ",
+    "roman": "bhaa",
+    "meaning": "bhaa",
+    "tts": "ಭಾ"
+  },
+  {
+    "id": 748,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭಿ",
+    "roman": "bhi",
+    "meaning": "bhi",
+    "tts": "ಭಿ"
+  },
+  {
+    "id": 749,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೀ",
+    "roman": "bhii",
+    "meaning": "bhii",
+    "tts": "ಭೀ"
+  },
+  {
+    "id": 750,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭು",
+    "roman": "bhu",
+    "meaning": "bhu",
+    "tts": "ಭು"
+  },
+  {
+    "id": 751,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೂ",
+    "roman": "bhuu",
+    "meaning": "bhuu",
+    "tts": "ಭೂ"
+  },
+  {
+    "id": 752,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೃ",
+    "roman": "bhru",
+    "meaning": "bhru",
+    "tts": "ಭೃ"
+  },
+  {
+    "id": 753,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೆ",
+    "roman": "bhe",
+    "meaning": "bhe",
+    "tts": "ಭೆ"
+  },
+  {
+    "id": 754,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೇ",
+    "roman": "bhee",
+    "meaning": "bhee",
+    "tts": "ಭೇ"
+  },
+  {
+    "id": 755,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೈ",
+    "roman": "bhai",
+    "meaning": "bhai",
+    "tts": "ಭೈ"
+  },
+  {
+    "id": 756,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೊ",
+    "roman": "bho",
+    "meaning": "bho",
+    "tts": "ಭೊ"
+  },
+  {
+    "id": 757,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೋ",
+    "roman": "bhoo",
+    "meaning": "bhoo",
+    "tts": "ಭೋ"
+  },
+  {
+    "id": 758,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭೌ",
+    "roman": "bhau",
+    "meaning": "bhau",
+    "tts": "ಭೌ"
+  },
+  {
+    "id": 759,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭಂ",
+    "roman": "bham",
+    "meaning": "bham",
+    "tts": "ಭಂ"
+  },
+  {
+    "id": 760,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಭ",
+    "letter": "ಭಃ",
+    "roman": "bhah",
+    "meaning": "bhah",
+    "tts": "ಭಃ"
+  },
+  {
+    "id": 761,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮ",
+    "roman": "ma",
+    "meaning": "ma",
+    "tts": "ಮ"
+  },
+  {
+    "id": 762,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮಾ",
+    "roman": "maa",
+    "meaning": "maa",
+    "tts": "ಮಾ"
+  },
+  {
+    "id": 763,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮಿ",
+    "roman": "mi",
+    "meaning": "mi",
+    "tts": "ಮಿ"
+  },
+  {
+    "id": 764,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೀ",
+    "roman": "mii",
+    "meaning": "mii",
+    "tts": "ಮೀ"
+  },
+  {
+    "id": 765,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮು",
+    "roman": "mu",
+    "meaning": "mu",
+    "tts": "ಮು"
+  },
+  {
+    "id": 766,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೂ",
+    "roman": "muu",
+    "meaning": "muu",
+    "tts": "ಮೂ"
+  },
+  {
+    "id": 767,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೃ",
+    "roman": "mru",
+    "meaning": "mru",
+    "tts": "ಮೃ"
+  },
+  {
+    "id": 768,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೆ",
+    "roman": "me",
+    "meaning": "me",
+    "tts": "ಮೆ"
+  },
+  {
+    "id": 769,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೇ",
+    "roman": "mee",
+    "meaning": "mee",
+    "tts": "ಮೇ"
+  },
+  {
+    "id": 770,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೈ",
+    "roman": "mai",
+    "meaning": "mai",
+    "tts": "ಮೈ"
+  },
+  {
+    "id": 771,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೊ",
+    "roman": "mo",
+    "meaning": "mo",
+    "tts": "ಮೊ"
+  },
+  {
+    "id": 772,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೋ",
+    "roman": "moo",
+    "meaning": "moo",
+    "tts": "ಮೋ"
+  },
+  {
+    "id": 773,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮೌ",
+    "roman": "mau",
+    "meaning": "mau",
+    "tts": "ಮೌ"
+  },
+  {
+    "id": 774,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮಂ",
+    "roman": "mam",
+    "meaning": "mam",
+    "tts": "ಮಂ"
+  },
+  {
+    "id": 775,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಮ",
+    "letter": "ಮಃ",
+    "roman": "mah",
+    "meaning": "mah",
+    "tts": "ಮಃ"
+  },
+  {
+    "id": 776,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯ",
+    "roman": "ya",
+    "meaning": "ya",
+    "tts": "ಯ"
+  },
+  {
+    "id": 777,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯಾ",
+    "roman": "yaa",
+    "meaning": "yaa",
+    "tts": "ಯಾ"
+  },
+  {
+    "id": 778,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯಿ",
+    "roman": "yi",
+    "meaning": "yi",
+    "tts": "ಯಿ"
+  },
+  {
+    "id": 779,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೀ",
+    "roman": "yii",
+    "meaning": "yii",
+    "tts": "ಯೀ"
+  },
+  {
+    "id": 780,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯು",
+    "roman": "yu",
+    "meaning": "yu",
+    "tts": "ಯು"
+  },
+  {
+    "id": 781,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೂ",
+    "roman": "yuu",
+    "meaning": "yuu",
+    "tts": "ಯೂ"
+  },
+  {
+    "id": 782,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೃ",
+    "roman": "yru",
+    "meaning": "yru",
+    "tts": "ಯೃ"
+  },
+  {
+    "id": 783,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೆ",
+    "roman": "ye",
+    "meaning": "ye",
+    "tts": "ಯೆ"
+  },
+  {
+    "id": 784,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೇ",
+    "roman": "yee",
+    "meaning": "yee",
+    "tts": "ಯೇ"
+  },
+  {
+    "id": 785,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೈ",
+    "roman": "yai",
+    "meaning": "yai",
+    "tts": "ಯೈ"
+  },
+  {
+    "id": 786,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೊ",
+    "roman": "yo",
+    "meaning": "yo",
+    "tts": "ಯೊ"
+  },
+  {
+    "id": 787,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೋ",
+    "roman": "yoo",
+    "meaning": "yoo",
+    "tts": "ಯೋ"
+  },
+  {
+    "id": 788,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯೌ",
+    "roman": "yau",
+    "meaning": "yau",
+    "tts": "ಯೌ"
+  },
+  {
+    "id": 789,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯಂ",
+    "roman": "yam",
+    "meaning": "yam",
+    "tts": "ಯಂ"
+  },
+  {
+    "id": 790,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಯ",
+    "letter": "ಯಃ",
+    "roman": "yah",
+    "meaning": "yah",
+    "tts": "ಯಃ"
+  },
+  {
+    "id": 791,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರ",
+    "roman": "ra",
+    "meaning": "ra",
+    "tts": "ರ"
+  },
+  {
+    "id": 792,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರಾ",
+    "roman": "raa",
+    "meaning": "raa",
+    "tts": "ರಾ"
+  },
+  {
+    "id": 793,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರಿ",
+    "roman": "ri",
+    "meaning": "ri",
+    "tts": "ರಿ"
+  },
+  {
+    "id": 794,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೀ",
+    "roman": "rii",
+    "meaning": "rii",
+    "tts": "ರೀ"
+  },
+  {
+    "id": 795,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರು",
+    "roman": "ru",
+    "meaning": "ru",
+    "tts": "ರು"
+  },
+  {
+    "id": 796,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೂ",
+    "roman": "ruu",
+    "meaning": "ruu",
+    "tts": "ರೂ"
+  },
+  {
+    "id": 797,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೃ",
+    "roman": "rru",
+    "meaning": "rru",
+    "tts": "ರೃ"
+  },
+  {
+    "id": 798,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೆ",
+    "roman": "re",
+    "meaning": "re",
+    "tts": "ರೆ"
+  },
+  {
+    "id": 799,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೇ",
+    "roman": "ree",
+    "meaning": "ree",
+    "tts": "ರೇ"
+  },
+  {
+    "id": 800,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೈ",
+    "roman": "rai",
+    "meaning": "rai",
+    "tts": "ರೈ"
+  },
+  {
+    "id": 801,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೊ",
+    "roman": "ro",
+    "meaning": "ro",
+    "tts": "ರೊ"
+  },
+  {
+    "id": 802,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೋ",
+    "roman": "roo",
+    "meaning": "roo",
+    "tts": "ರೋ"
+  },
+  {
+    "id": 803,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರೌ",
+    "roman": "rau",
+    "meaning": "rau",
+    "tts": "ರೌ"
+  },
+  {
+    "id": 804,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರಂ",
+    "roman": "ram",
+    "meaning": "ram",
+    "tts": "ರಂ"
+  },
+  {
+    "id": 805,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ರ",
+    "letter": "ರಃ",
+    "roman": "rah",
+    "meaning": "rah",
+    "tts": "ರಃ"
+  },
+  {
+    "id": 806,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲ",
+    "roman": "la",
+    "meaning": "la",
+    "tts": "ಲ"
+  },
+  {
+    "id": 807,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲಾ",
+    "roman": "laa",
+    "meaning": "laa",
+    "tts": "ಲಾ"
+  },
+  {
+    "id": 808,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲಿ",
+    "roman": "li",
+    "meaning": "li",
+    "tts": "ಲಿ"
+  },
+  {
+    "id": 809,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೀ",
+    "roman": "lii",
+    "meaning": "lii",
+    "tts": "ಲೀ"
+  },
+  {
+    "id": 810,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲು",
+    "roman": "lu",
+    "meaning": "lu",
+    "tts": "ಲು"
+  },
+  {
+    "id": 811,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೂ",
+    "roman": "luu",
+    "meaning": "luu",
+    "tts": "ಲೂ"
+  },
+  {
+    "id": 812,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೃ",
+    "roman": "lru",
+    "meaning": "lru",
+    "tts": "ಲೃ"
+  },
+  {
+    "id": 813,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೆ",
+    "roman": "le",
+    "meaning": "le",
+    "tts": "ಲೆ"
+  },
+  {
+    "id": 814,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೇ",
+    "roman": "lee",
+    "meaning": "lee",
+    "tts": "ಲೇ"
+  },
+  {
+    "id": 815,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೈ",
+    "roman": "lai",
+    "meaning": "lai",
+    "tts": "ಲೈ"
+  },
+  {
+    "id": 816,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೊ",
+    "roman": "lo",
+    "meaning": "lo",
+    "tts": "ಲೊ"
+  },
+  {
+    "id": 817,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೋ",
+    "roman": "loo",
+    "meaning": "loo",
+    "tts": "ಲೋ"
+  },
+  {
+    "id": 818,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲೌ",
+    "roman": "lau",
+    "meaning": "lau",
+    "tts": "ಲೌ"
+  },
+  {
+    "id": 819,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲಂ",
+    "roman": "lam",
+    "meaning": "lam",
+    "tts": "ಲಂ"
+  },
+  {
+    "id": 820,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಲ",
+    "letter": "ಲಃ",
+    "roman": "lah",
+    "meaning": "lah",
+    "tts": "ಲಃ"
+  },
+  {
+    "id": 821,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವ",
+    "roman": "va",
+    "meaning": "va",
+    "tts": "ವ"
+  },
+  {
+    "id": 822,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವಾ",
+    "roman": "vaa",
+    "meaning": "vaa",
+    "tts": "ವಾ"
+  },
+  {
+    "id": 823,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವಿ",
+    "roman": "vi",
+    "meaning": "vi",
+    "tts": "ವಿ"
+  },
+  {
+    "id": 824,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೀ",
+    "roman": "vii",
+    "meaning": "vii",
+    "tts": "ವೀ"
+  },
+  {
+    "id": 825,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವು",
+    "roman": "vu",
+    "meaning": "vu",
+    "tts": "ವು"
+  },
+  {
+    "id": 826,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೂ",
+    "roman": "vuu",
+    "meaning": "vuu",
+    "tts": "ವೂ"
+  },
+  {
+    "id": 827,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೃ",
+    "roman": "vru",
+    "meaning": "vru",
+    "tts": "ವೃ"
+  },
+  {
+    "id": 828,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೆ",
+    "roman": "ve",
+    "meaning": "ve",
+    "tts": "ವೆ"
+  },
+  {
+    "id": 829,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೇ",
+    "roman": "vee",
+    "meaning": "vee",
+    "tts": "ವೇ"
+  },
+  {
+    "id": 830,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೈ",
+    "roman": "vai",
+    "meaning": "vai",
+    "tts": "ವೈ"
+  },
+  {
+    "id": 831,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೊ",
+    "roman": "vo",
+    "meaning": "vo",
+    "tts": "ವೊ"
+  },
+  {
+    "id": 832,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೋ",
+    "roman": "voo",
+    "meaning": "voo",
+    "tts": "ವೋ"
+  },
+  {
+    "id": 833,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವೌ",
+    "roman": "vau",
+    "meaning": "vau",
+    "tts": "ವೌ"
+  },
+  {
+    "id": 834,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವಂ",
+    "roman": "vam",
+    "meaning": "vam",
+    "tts": "ವಂ"
+  },
+  {
+    "id": 835,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ವ",
+    "letter": "ವಃ",
+    "roman": "vah",
+    "meaning": "vah",
+    "tts": "ವಃ"
+  },
+  {
+    "id": 836,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶ",
+    "roman": "sha",
+    "meaning": "sha",
+    "tts": "ಶ"
+  },
+  {
+    "id": 837,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶಾ",
+    "roman": "shaa",
+    "meaning": "shaa",
+    "tts": "ಶಾ"
+  },
+  {
+    "id": 838,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶಿ",
+    "roman": "shi",
+    "meaning": "shi",
+    "tts": "ಶಿ"
+  },
+  {
+    "id": 839,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೀ",
+    "roman": "shii",
+    "meaning": "shii",
+    "tts": "ಶೀ"
+  },
+  {
+    "id": 840,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶು",
+    "roman": "shu",
+    "meaning": "shu",
+    "tts": "ಶು"
+  },
+  {
+    "id": 841,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೂ",
+    "roman": "shuu",
+    "meaning": "shuu",
+    "tts": "ಶೂ"
+  },
+  {
+    "id": 842,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೃ",
+    "roman": "shru",
+    "meaning": "shru",
+    "tts": "ಶೃ"
+  },
+  {
+    "id": 843,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೆ",
+    "roman": "she",
+    "meaning": "she",
+    "tts": "ಶೆ"
+  },
+  {
+    "id": 844,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೇ",
+    "roman": "shee",
+    "meaning": "shee",
+    "tts": "ಶೇ"
+  },
+  {
+    "id": 845,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೈ",
+    "roman": "shai",
+    "meaning": "shai",
+    "tts": "ಶೈ"
+  },
+  {
+    "id": 846,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೊ",
+    "roman": "sho",
+    "meaning": "sho",
+    "tts": "ಶೊ"
+  },
+  {
+    "id": 847,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೋ",
+    "roman": "shoo",
+    "meaning": "shoo",
+    "tts": "ಶೋ"
+  },
+  {
+    "id": 848,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶೌ",
+    "roman": "shau",
+    "meaning": "shau",
+    "tts": "ಶೌ"
+  },
+  {
+    "id": 849,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶಂ",
+    "roman": "sham",
+    "meaning": "sham",
+    "tts": "ಶಂ"
+  },
+  {
+    "id": 850,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಶ",
+    "letter": "ಶಃ",
+    "roman": "shah",
+    "meaning": "shah",
+    "tts": "ಶಃ"
+  },
+  {
+    "id": 851,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷ",
+    "roman": "shha",
+    "meaning": "shha",
+    "tts": "ಷ"
+  },
+  {
+    "id": 852,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷಾ",
+    "roman": "shhaa",
+    "meaning": "shhaa",
+    "tts": "ಷಾ"
+  },
+  {
+    "id": 853,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷಿ",
+    "roman": "shhi",
+    "meaning": "shhi",
+    "tts": "ಷಿ"
+  },
+  {
+    "id": 854,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೀ",
+    "roman": "shhii",
+    "meaning": "shhii",
+    "tts": "ಷೀ"
+  },
+  {
+    "id": 855,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷು",
+    "roman": "shhu",
+    "meaning": "shhu",
+    "tts": "ಷು"
+  },
+  {
+    "id": 856,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೂ",
+    "roman": "shhuu",
+    "meaning": "shhuu",
+    "tts": "ಷೂ"
+  },
+  {
+    "id": 857,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೃ",
+    "roman": "shhru",
+    "meaning": "shhru",
+    "tts": "ಷೃ"
+  },
+  {
+    "id": 858,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೆ",
+    "roman": "shhe",
+    "meaning": "shhe",
+    "tts": "ಷೆ"
+  },
+  {
+    "id": 859,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೇ",
+    "roman": "shhee",
+    "meaning": "shhee",
+    "tts": "ಷೇ"
+  },
+  {
+    "id": 860,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೈ",
+    "roman": "shhai",
+    "meaning": "shhai",
+    "tts": "ಷೈ"
+  },
+  {
+    "id": 861,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೊ",
+    "roman": "shho",
+    "meaning": "shho",
+    "tts": "ಷೊ"
+  },
+  {
+    "id": 862,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೋ",
+    "roman": "shhoo",
+    "meaning": "shhoo",
+    "tts": "ಷೋ"
+  },
+  {
+    "id": 863,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷೌ",
+    "roman": "shhau",
+    "meaning": "shhau",
+    "tts": "ಷೌ"
+  },
+  {
+    "id": 864,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷಂ",
+    "roman": "shham",
+    "meaning": "shham",
+    "tts": "ಷಂ"
+  },
+  {
+    "id": 865,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಷ",
+    "letter": "ಷಃ",
+    "roman": "shhah",
+    "meaning": "shhah",
+    "tts": "ಷಃ"
+  },
+  {
+    "id": 866,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸ",
+    "roman": "sa",
+    "meaning": "sa",
+    "tts": "ಸ"
+  },
+  {
+    "id": 867,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸಾ",
+    "roman": "saa",
+    "meaning": "saa",
+    "tts": "ಸಾ"
+  },
+  {
+    "id": 868,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸಿ",
+    "roman": "si",
+    "meaning": "si",
+    "tts": "ಸಿ"
+  },
+  {
+    "id": 869,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೀ",
+    "roman": "sii",
+    "meaning": "sii",
+    "tts": "ಸೀ"
+  },
+  {
+    "id": 870,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸು",
+    "roman": "su",
+    "meaning": "su",
+    "tts": "ಸು"
+  },
+  {
+    "id": 871,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೂ",
+    "roman": "suu",
+    "meaning": "suu",
+    "tts": "ಸೂ"
+  },
+  {
+    "id": 872,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೃ",
+    "roman": "sru",
+    "meaning": "sru",
+    "tts": "ಸೃ"
+  },
+  {
+    "id": 873,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೆ",
+    "roman": "se",
+    "meaning": "se",
+    "tts": "ಸೆ"
+  },
+  {
+    "id": 874,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೇ",
+    "roman": "see",
+    "meaning": "see",
+    "tts": "ಸೇ"
+  },
+  {
+    "id": 875,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೈ",
+    "roman": "sai",
+    "meaning": "sai",
+    "tts": "ಸೈ"
+  },
+  {
+    "id": 876,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೊ",
+    "roman": "so",
+    "meaning": "so",
+    "tts": "ಸೊ"
+  },
+  {
+    "id": 877,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೋ",
+    "roman": "soo",
+    "meaning": "soo",
+    "tts": "ಸೋ"
+  },
+  {
+    "id": 878,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸೌ",
+    "roman": "sau",
+    "meaning": "sau",
+    "tts": "ಸೌ"
+  },
+  {
+    "id": 879,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸಂ",
+    "roman": "sam",
+    "meaning": "sam",
+    "tts": "ಸಂ"
+  },
+  {
+    "id": 880,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಸ",
+    "letter": "ಸಃ",
+    "roman": "sah",
+    "meaning": "sah",
+    "tts": "ಸಃ"
+  },
+  {
+    "id": 881,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹ",
+    "roman": "ha",
+    "meaning": "ha",
+    "tts": "ಹ"
+  },
+  {
+    "id": 882,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹಾ",
+    "roman": "haa",
+    "meaning": "haa",
+    "tts": "ಹಾ"
+  },
+  {
+    "id": 883,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹಿ",
+    "roman": "hi",
+    "meaning": "hi",
+    "tts": "ಹಿ"
+  },
+  {
+    "id": 884,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೀ",
+    "roman": "hii",
+    "meaning": "hii",
+    "tts": "ಹೀ"
+  },
+  {
+    "id": 885,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹು",
+    "roman": "hu",
+    "meaning": "hu",
+    "tts": "ಹು"
+  },
+  {
+    "id": 886,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೂ",
+    "roman": "huu",
+    "meaning": "huu",
+    "tts": "ಹೂ"
+  },
+  {
+    "id": 887,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೃ",
+    "roman": "hru",
+    "meaning": "hru",
+    "tts": "ಹೃ"
+  },
+  {
+    "id": 888,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೆ",
+    "roman": "he",
+    "meaning": "he",
+    "tts": "ಹೆ"
+  },
+  {
+    "id": 889,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೇ",
+    "roman": "hee",
+    "meaning": "hee",
+    "tts": "ಹೇ"
+  },
+  {
+    "id": 890,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೈ",
+    "roman": "hai",
+    "meaning": "hai",
+    "tts": "ಹೈ"
+  },
+  {
+    "id": 891,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೊ",
+    "roman": "ho",
+    "meaning": "ho",
+    "tts": "ಹೊ"
+  },
+  {
+    "id": 892,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೋ",
+    "roman": "hoo",
+    "meaning": "hoo",
+    "tts": "ಹೋ"
+  },
+  {
+    "id": 893,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹೌ",
+    "roman": "hau",
+    "meaning": "hau",
+    "tts": "ಹೌ"
+  },
+  {
+    "id": 894,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹಂ",
+    "roman": "ham",
+    "meaning": "ham",
+    "tts": "ಹಂ"
+  },
+  {
+    "id": 895,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಹ",
+    "letter": "ಹಃ",
+    "roman": "hah",
+    "meaning": "hah",
+    "tts": "ಹಃ"
+  },
+  {
+    "id": 896,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳ",
+    "roman": "la",
+    "meaning": "la",
+    "tts": "ಳ"
+  },
+  {
+    "id": 897,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳಾ",
+    "roman": "laa",
+    "meaning": "laa",
+    "tts": "ಳಾ"
+  },
+  {
+    "id": 898,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳಿ",
+    "roman": "li",
+    "meaning": "li",
+    "tts": "ಳಿ"
+  },
+  {
+    "id": 899,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೀ",
+    "roman": "lii",
+    "meaning": "lii",
+    "tts": "ಳೀ"
+  },
+  {
+    "id": 900,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳು",
+    "roman": "lu",
+    "meaning": "lu",
+    "tts": "ಳು"
+  },
+  {
+    "id": 901,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೂ",
+    "roman": "luu",
+    "meaning": "luu",
+    "tts": "ಳೂ"
+  },
+  {
+    "id": 902,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೃ",
+    "roman": "lru",
+    "meaning": "lru",
+    "tts": "ಳೃ"
+  },
+  {
+    "id": 903,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೆ",
+    "roman": "le",
+    "meaning": "le",
+    "tts": "ಳೆ"
+  },
+  {
+    "id": 904,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೇ",
+    "roman": "lee",
+    "meaning": "lee",
+    "tts": "ಳೇ"
+  },
+  {
+    "id": 905,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೈ",
+    "roman": "lai",
+    "meaning": "lai",
+    "tts": "ಳೈ"
+  },
+  {
+    "id": 906,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೊ",
+    "roman": "lo",
+    "meaning": "lo",
+    "tts": "ಳೊ"
+  },
+  {
+    "id": 907,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೋ",
+    "roman": "loo",
+    "meaning": "loo",
+    "tts": "ಳೋ"
+  },
+  {
+    "id": 908,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳೌ",
+    "roman": "lau",
+    "meaning": "lau",
+    "tts": "ಳೌ"
+  },
+  {
+    "id": 909,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳಂ",
+    "roman": "lam",
+    "meaning": "lam",
+    "tts": "ಳಂ"
+  },
+  {
+    "id": 910,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಳ",
+    "letter": "ಳಃ",
+    "roman": "lah",
+    "meaning": "lah",
+    "tts": "ಳಃ"
+  },
+  {
+    "id": 911,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷ",
+    "roman": "ksha",
+    "meaning": "ksha",
+    "tts": "ಕ್ಷ"
+  },
+  {
+    "id": 912,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷಾ",
+    "roman": "kshaa",
+    "meaning": "kshaa",
+    "tts": "ಕ್ಷಾ"
+  },
+  {
+    "id": 913,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷಿ",
+    "roman": "kshi",
+    "meaning": "kshi",
+    "tts": "ಕ್ಷಿ"
+  },
+  {
+    "id": 914,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೀ",
+    "roman": "kshii",
+    "meaning": "kshii",
+    "tts": "ಕ್ಷೀ"
+  },
+  {
+    "id": 915,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷು",
+    "roman": "kshu",
+    "meaning": "kshu",
+    "tts": "ಕ್ಷು"
+  },
+  {
+    "id": 916,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೂ",
+    "roman": "kshuu",
+    "meaning": "kshuu",
+    "tts": "ಕ್ಷೂ"
+  },
+  {
+    "id": 917,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೃ",
+    "roman": "kshru",
+    "meaning": "kshru",
+    "tts": "ಕ್ಷೃ"
+  },
+  {
+    "id": 918,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೆ",
+    "roman": "kshe",
+    "meaning": "kshe",
+    "tts": "ಕ್ಷೆ"
+  },
+  {
+    "id": 919,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೇ",
+    "roman": "kshee",
+    "meaning": "kshee",
+    "tts": "ಕ್ಷೇ"
+  },
+  {
+    "id": 920,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೈ",
+    "roman": "kshai",
+    "meaning": "kshai",
+    "tts": "ಕ್ಷೈ"
+  },
+  {
+    "id": 921,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೊ",
+    "roman": "ksho",
+    "meaning": "ksho",
+    "tts": "ಕ್ಷೊ"
+  },
+  {
+    "id": 922,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೋ",
+    "roman": "kshoo",
+    "meaning": "kshoo",
+    "tts": "ಕ್ಷೋ"
+  },
+  {
+    "id": 923,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷೌ",
+    "roman": "kshau",
+    "meaning": "kshau",
+    "tts": "ಕ್ಷೌ"
+  },
+  {
+    "id": 924,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷಂ",
+    "roman": "ksham",
+    "meaning": "ksham",
+    "tts": "ಕ್ಷಂ"
+  },
+  {
+    "id": 925,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಕ್ಷ",
+    "letter": "ಕ್ಷಃ",
+    "roman": "kshah",
+    "meaning": "kshah",
+    "tts": "ಕ್ಷಃ"
+  },
+  {
+    "id": 926,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞ",
+    "roman": "jna",
+    "meaning": "jna",
+    "tts": "ಜ್ಞ"
+  },
+  {
+    "id": 927,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞಾ",
+    "roman": "jnaa",
+    "meaning": "jnaa",
+    "tts": "ಜ್ಞಾ"
+  },
+  {
+    "id": 928,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞಿ",
+    "roman": "jni",
+    "meaning": "jni",
+    "tts": "ಜ್ಞಿ"
+  },
+  {
+    "id": 929,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೀ",
+    "roman": "jnii",
+    "meaning": "jnii",
+    "tts": "ಜ್ಞೀ"
+  },
+  {
+    "id": 930,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞು",
+    "roman": "jnu",
+    "meaning": "jnu",
+    "tts": "ಜ್ಞು"
+  },
+  {
+    "id": 931,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೂ",
+    "roman": "jnuu",
+    "meaning": "jnuu",
+    "tts": "ಜ್ಞೂ"
+  },
+  {
+    "id": 932,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೃ",
+    "roman": "jnru",
+    "meaning": "jnru",
+    "tts": "ಜ್ಞೃ"
+  },
+  {
+    "id": 933,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೆ",
+    "roman": "jne",
+    "meaning": "jne",
+    "tts": "ಜ್ಞೆ"
+  },
+  {
+    "id": 934,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೇ",
+    "roman": "jnee",
+    "meaning": "jnee",
+    "tts": "ಜ್ಞೇ"
+  },
+  {
+    "id": 935,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೈ",
+    "roman": "jnai",
+    "meaning": "jnai",
+    "tts": "ಜ್ಞೈ"
+  },
+  {
+    "id": 936,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೊ",
+    "roman": "jno",
+    "meaning": "jno",
+    "tts": "ಜ್ಞೊ"
+  },
+  {
+    "id": 937,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೋ",
+    "roman": "jnoo",
+    "meaning": "jnoo",
+    "tts": "ಜ್ಞೋ"
+  },
+  {
+    "id": 938,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞೌ",
+    "roman": "jnau",
+    "meaning": "jnau",
+    "tts": "ಜ್ಞೌ"
+  },
+  {
+    "id": 939,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞಂ",
+    "roman": "jnam",
+    "meaning": "jnam",
+    "tts": "ಜ್ಞಂ"
+  },
+  {
+    "id": 940,
+    "type": "letter",
+    "category": "vowel_combination",
+    "consonant": "ಜ್ಞ",
+    "letter": "ಜ್ಞಃ",
+    "roman": "jnah",
+    "meaning": "jnah",
+    "tts": "ಜ್ಞಃ"
+  }
+]
